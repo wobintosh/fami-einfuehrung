@@ -1,0 +1,50 @@
+site_name: Zettelkasten
+nav:
+    - FaMI-Einführung: 
+        - Archivkunde: 
+            - Abgabe & Bewertung: einfuehrung/archiv/abgabe_bewertung.md
+            - Archivgut (Arten): einfuehrung/archiv/archivgut.md
+            - Archivportale: einfuehrung/archiv/archivportale.md
+            - Archivrecht: einfuehrung/archiv/archivrecht.md
+            - Archivsparten/-typen: einfuehrung/archiv/archivsparten.md
+            - Archivtechnik: einfuehrung/archiv/archivtechnik.md
+            - Begriffsdefinitionen: einfuehrung/archiv/definitionen.md
+            - Benutzung: einfuehrung/archiv/benutzung.md
+            - Bestandserhaltung: einfuehrung/archiv/bestandserhaltung.md
+            - Erschließung/Verzeichnung: einfuehrung/archiv/erschliessung.md
+            - Ordnungsprinzipien: einfuehrung/archiv/ordnungsprinzipien.md
+        - Bibliothek: einfuehrung/bibliothek/index.md
+        - Bildagentur: einfuehrung/bildagentur.md
+        - Information & Dokumentation: einfuehrung/information_dokumentation/index.md
+        - Medizinische Dokumentation: einfuehrung/medizinische_dokumentation.md
+        - Politik: einfuehrung/politik/index.md
+        - Wirtschaft & IT: einfuehrung/wirtschaft_it/index.md
+        - Lernzettel Abschlussprüfung: einfuehrung/lernzettel/index.md
+        - Hilfsmittel: einfuehrung/hilfsmittel.md
+    - Datenschutz: datenschutz.md
+    - Impressum: impressum.md
+theme: 
+    name: material
+    language: de   
+    features:
+        - navigation.expand
+        - search.highlight
+markdown_extensions:
+    - toc: 
+        permalink: true
+    - footnotes
+    - admonition
+plugins:
+    - search:
+        lang: de
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/wobintosh
+      name: Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/wobintosh
+      name: Github
+    - icon: fontawesome/regular/bookmark
+      link: https://blog.grdl.eu
+      name: Blog
