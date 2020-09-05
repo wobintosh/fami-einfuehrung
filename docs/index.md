@@ -3,3 +3,7 @@ Diese Seiten basieren auf den Unterlagen, die ich mir während meiner FaMI-Ausbi
 Einige wenige (Teil-) Seiten habe ich entfernt, weil sie mir inhaltlich fragwürdig vorgekommen sind oder veraltet waren. Die Gliederung orientiert sich weitestgehend am alten Wiki, ist aber nicht immer ganz logisch - im Zweifelsfall bitte die Suche benutzen.
 
 Ergänzende Inhalte, Linktipps etc. finden sich auf [meinem Blog](https://blog.grdl.eu), dort finden sich auch Kontaktmöglichkeiten, falls noch Fehler enthalten sind.
+
+
+
+Die Inhalte finden sich auch auf Github, dort können auch Fehler gemeldet werden.
