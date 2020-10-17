@@ -26,6 +26,7 @@ nav:
 theme: 
     name: material
     language: de   
+    font: false
     features:
         - navigation.expand
         - search.highlight
