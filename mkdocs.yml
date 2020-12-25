@@ -34,7 +34,12 @@ nav:
             - Verbünde: einfuehrung/bibliothek/verbuende.md
             - Wichtige Abkürzungen: einfuehrung/bibliothek/abkuerzungen.md
         - Bildagentur: einfuehrung/bildagentur.md
-        - Information & Dokumentation: einfuehrung/information_dokumentation/index.md
+        - Information & Dokumentation: 
+            - Begriffe: einfuehrung/information_dokumentation/begriffe.md
+            - Dokumentation: einfuehrung/information_dokumentation/dokumentation.md
+            - Fachinformationszentren: einfuehrung/information_dokumentation/fachinformationszentren.md
+            - Hosts: einfuehrung/information_dokumentation/hosts.md
+            - Informationsformen & -träger: einfuehrung/information_dokumentation/informationsformen.md
         - Medizinische Dokumentation: einfuehrung/medizinische_dokumentation.md
         - Politik: einfuehrung/politik/index.md
         - Wirtschaft & IT: einfuehrung/wirtschaft_it/index.md
@@ -44,7 +49,7 @@ nav:
     - Impressum: impressum.md
 theme: 
     name: material
-    language: de   
+    language: de
     font: false
     features:
         - navigation.expand
