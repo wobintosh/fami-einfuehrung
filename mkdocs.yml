@@ -41,7 +41,12 @@ nav:
             - Hosts: einfuehrung/information_dokumentation/hosts.md
             - Informationsformen & -träger: einfuehrung/information_dokumentation/informationsformen.md
         - Medizinische Dokumentation: einfuehrung/medizinische_dokumentation.md
-        - Politik: einfuehrung/politik/index.md
+        - Politik:
+            - Arbeitszeiten: einfuehrung/politik/arbeitszeiten.md
+            - Arbeitszeugnis: einfuehrung/politik/arbeitszeugnis.md
+            - Ausbildung: einfuehrung/politik/ausbildung.md
+            - Kündigungsschutz: einfuehrung/politik/kuendigungsschutz.md
+            - Urlaubsanspruch: einfuehrung/politik/urlaub.md
         - Wirtschaft & IT: einfuehrung/wirtschaft_it/index.md
         - Lernzettel Abschlussprüfung: einfuehrung/lernzettel/index.md
         - Hilfsmittel: einfuehrung/hilfsmittel.md
