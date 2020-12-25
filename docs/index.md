@@ -6,4 +6,4 @@ Ergänzende Inhalte, Linktipps etc. finden sich auf [meinem Blog](https://blog.g
 
 
 
-Die Inhalte finden sich auch auf Github, dort können auch Fehler gemeldet werden.
+Die Inhalte finden sich auch auf [Github](https://github.com/wobintosh/fami-einfuehrung), dort können auch Fehler gemeldet werden.
