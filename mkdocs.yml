@@ -47,7 +47,22 @@ nav:
             - Ausbildung: einfuehrung/politik/ausbildung.md
             - Kündigungsschutz: einfuehrung/politik/kuendigungsschutz.md
             - Urlaubsanspruch: einfuehrung/politik/urlaub.md
-        - Wirtschaft & IT: einfuehrung/wirtschaft_it/index.md
+        - Wirtschaft:
+            - Angebote vergleichen: einfuehrung/wirtschaft/angebot_vergleichen.md
+            - Arbeitsteilung: einfuehrung/wirtschaft/arbeitsteilung.md
+            - Bankgeschäfte: einfuehrung/wirtschaft/bankgeschaefte.md
+            - Bedürfnisse: einfuehrung/wirtschaft/beduerfnisse.md
+            - Grundprinzipien: einfuehrung/wirtschaft/grundprinzipien.md
+            - Güter: einfuehrung/wirtschaft/gueter.md
+            - Kaufvertrag: einfuehrung/wirtschaft/kaufvertrag.md
+            - Öffentliche Daseinsfürsorge: einfuehrung/wirtschaft/daseinsvorsorge.md
+            - Öffentliche Unternehmen: einfuehrung/wirtschaft/oeffentliche_unternehmen.md
+            - Organisationsformen: einfuehrung/wirtschaft/organisationsformen.md
+            - Preisbildung: einfuehrung/wirtschaft/preisbildung.md
+            - Rechtsfähigkeit: einfuehrung/wirtschaft/rechtsfaehigkeit.md
+            - Rechtsgeschäfte: einfuehrung/wirtschaft/rechtsgeschaefte.md
+            - Vertragsarten: einfuehrung/wirtschaft/vertragsarten.md
+            - Zahlungsmöglichkeiten: einfuehrung/wirtschaft/zahlungsmoeglichkeiten.md
         - Lernzettel Abschlussprüfung: einfuehrung/lernzettel/index.md
         - Hilfsmittel: einfuehrung/hilfsmittel.md
     - Datenschutz: datenschutz.md
