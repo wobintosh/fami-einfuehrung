@@ -163,7 +163,7 @@ Wer, gegen wen, warum? (WWW-Regel)
 
 ### besondere Archivalien, Sammlungen
 
-=> ggf. teilweise mit Personen- oder sachbezogenen Informationen
+&#10132; ggf. teilweise mit Personen- oder sachbezogenen Informationen
 
 
 
@@ -181,8 +181,8 @@ Eine besondere Erschließung erfordern u.a.:
 * Was ist auf dem Foto zu sehen?
 * Wer ist auf dem Foto zu sehen?
 * Wer hat das Foto aufgenommen?  Urheberrecht
-* Wann wurde das Foto aufgenommen? => Laufzeit
-* Fotograf => Urheberrecht
+* Wann wurde das Foto aufgenommen? &#10132; Laufzeit
+* Fotograf &#10132; Urheberrecht
 * Arte der Aufnahme (schwarz-weiß, farbig)
 * Größe
 * Anzahl der Aufnahmen
@@ -193,8 +193,8 @@ Eine besondere Erschließung erfordern u.a.:
 
 * Was ist dargestellt?
 * Wer ist dargestellt?
-* Wann entstanden? => Laufzeit
-* Name des Künstlers => Urheberrecht
+* Wann entstanden? &#10132; Laufzeit
+* Name des Künstlers &#10132; Urheberrecht
 * Herstellungsverfahren (Kupferstich, Radierung, Handzeichnung, Lithografie, Druck, ...)
 * Größe, Maßstab
 * Anzahl

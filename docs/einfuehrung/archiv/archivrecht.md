@@ -10,7 +10,7 @@ Archivrecht umfasst alle Rechtsthemen, die mit dem Archivwesen verbunden sind:
 ## Archivgesetze 
 
 * Zwischen 1987 und 1995 entstanden die Archivgesetze des Bundes und der Länder und erlangten Rechtskraft
-* Auslöser: Volkszählung 1983 => personenrelevante Daten in Archiven waren nicht geschützt => Archivgesetze wurden notwendig
+* Auslöser: Volkszählung 1983 &#10132; personenrelevante Daten in Archiven waren nicht geschützt &#10132; Archivgesetze wurden notwendig
 * Ständige Überarbeitung und Anpassung
 
 
@@ -73,8 +73,8 @@ Archivrecht umfasst alle Rechtsthemen, die mit dem Archivwesen verbunden sind:
 
 Archivgut hat einen bleibenden Wert für:
 
-* Erfüllung öffentlicher Aufgaben => bspw. Entwicklung von Gesetzen
-* Sicherung (berechtigter) privater Interessen => z.B. Katasterakten, Flurkarten
+* Erfüllung öffentlicher Aufgaben &#10132; bspw. Entwicklung von Gesetzen
+* Sicherung (berechtigter) privater Interessen &#10132; z.B. Katasterakten, Flurkarten
 * Forschung
 
 

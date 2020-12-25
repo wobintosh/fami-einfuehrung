@@ -92,7 +92,7 @@ Die Eigenschaft **archivisch** bezieht sich auf das Archiv als **Institution** o
 
 **Archivische Bewertung**: Ermittlung von Archivgut, das vom zuständigen Archiv endgültig und dauerhaft ins Archiv übernommen werden sollen. Das bewertete Schriftgut wird dann als archivwürdig bezeichnet.
 
-**archivreif**: Archivreif sind jene Unterlagen oder Daten, deren Aufbewahrungsfristen in der abgebenden Stelle abgelaufen sind und das zur Aussonderung ansteht (=> Anbietungs-/Aussonderungsliste)
+**archivreif**: Archivreif sind jene Unterlagen oder Daten, deren Aufbewahrungsfristen in der abgebenden Stelle abgelaufen sind und das zur Aussonderung ansteht (&#10132; Anbietungs-/Aussonderungsliste)
 
 **Archivsignatur**: Kennzeichen zur eindeutigen Identifikation einer einzelnen Archivguteinheit
 
@@ -100,7 +100,7 @@ Die Eigenschaft **archivisch** bezieht sich auf das Archiv als **Institution** o
 
 **Archivtektonik**: Hilfsmittel zur Ordnung und Erschließung einzelner Archivbestände; wird in analoger sowie digitaler Form genutzt 
 
-**archivwürdig**: Archivwürdig sind jene Unterlagen oder Daten, die nach der Bewertung durch das Archiv von bleibendem Wert für die Erfüllung öffentlicher Aufgaben, für die Sicherung berechtigter privater Interessen oder von Interesse für die wissenschaftliche Forschung sind (=> Abgabe-/Ablieferungs-/Übernahmeliste)
+**archivwürdig**: Archivwürdig sind jene Unterlagen oder Daten, die nach der Bewertung durch das Archiv von bleibendem Wert für die Erfüllung öffentlicher Aufgaben, für die Sicherung berechtigter privater Interessen oder von Interesse für die wissenschaftliche Forschung sind (&#10132; Abgabe-/Ablieferungs-/Übernahmeliste)
 
 **Aufbewahrungsfrist**: Die Dauer, die Unterlagen oder Daten in einer Behörde, Verwaltung oder Institution vor der Anbietung an ein Archiv bzw. Vernichtung mindestens aufgehoben bzw. gespeichert werden müssen. In der Regel 10 Jahre, längstens 30 Jahre.
 

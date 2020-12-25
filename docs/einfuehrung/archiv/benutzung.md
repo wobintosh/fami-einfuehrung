@@ -1,9 +1,9 @@
 ## Benutzung aus Sicht der Magazinverwaltung 
 
 1. Benutzer:in bestellt Archivalien
-2. Mitarbeiter:in holt das Archivgut aus dem Magazin (=> Ausheben)
+2. Mitarbeiter:in holt das Archivgut aus dem Magazin (&#10132; Ausheben)
 3. Vorlage der bestellten Archivalien beim Benutzer
-4. Nach der Benutzung wird das Archivgut wieder in das Magazin gebracht (=> Reponieren)
+4. Nach der Benutzung wird das Archivgut wieder in das Magazin gebracht (&#10132; Reponieren)
 
 
 
@@ -17,7 +17,7 @@ Archivpädagogik umfasst alle pädagogischen Maßnahmen, die Menschen den Zugang
 
 * spezielle Führungen
 * Kurse
-* Ausrichtung von Geschichtswettbewerben =>  Historische Bildungsarbeit
+* Ausrichtung von Geschichtswettbewerben &#10132;  Historische Bildungsarbeit
 * Zusammenarbeit mit Einrichtungen der Erwachsenenbildung (VHS o.ä.)
 * Zusammenarbeit mit Geschichts- oder Heimatvereinen
 * Zusammenarbeit mit Geschichtswerkstätten

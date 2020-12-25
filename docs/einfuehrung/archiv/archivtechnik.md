@@ -55,8 +55,8 @@ Bei der Planung von Magazinräumen sind insbesondere diese Punkte zu beachten:
 
 * 14 - 15 °C
 * relative Luftfeuchtigkeit ca. 45% +/- 5%
-  * => regelmäßige Kontrolle durch entsprechende Messgeräte, regelmäßiger Lufttausch
-  * => **Faustregel**: Besser kühl und trocken als warm und feucht!
+  * &#10132; regelmäßige Kontrolle durch entsprechende Messgeräte, regelmäßiger Lufttausch
+  * &#10132; **Faustregel**: Besser kühl und trocken als warm und feucht!
 
 
 

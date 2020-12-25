@@ -9,7 +9,7 @@ Gründe hierfür sind:
 * Zuordnung zum Magazin
 * Signaturvergabe
 * mögliche Verschmutzungen, Feuchtigkeit, Schimmelpilz, Schädlingsbefall
-* **Akklimatisierung** (Raumklima) => Temperatur, Luftfeuchtigkeit
+* **Akklimatisierung** (Raumklima) &#10132; Temperatur, Luftfeuchtigkeit
  * Äußere Einflüsse müssen **immer** kontrolliert werden, da sie nicht in das Endmagazin gelangen dürfen
  * Sofortmaßnahmen:
   * feuchte/nasse Papiere:
@@ -57,7 +57,7 @@ Arbeitsschritte:
 - **Hauptmotive**:
   - Schutz der Originale vor Beschädigung
   - Schutz der Originale vor Verlust
-  - => Schutz von Kulturgut
+  - &#10132; Schutz von Kulturgut
 - **Internationale Abkommen und Verträge**: 
   - Haager Konventionen (auch: Haager Abkommen) (1899 und 1907)
   - Washingtoner Vertrag (auch: Washingtoner Abkommen, Roerich-Pakt) (1935)
@@ -128,7 +128,7 @@ Es gibt drei Arten von Verfahren zur massenhaften Entsäuerung von Papieren:
 #### Flüssigphasen-Verfahren 
 
 * Entwickelt durch die Gesellschaft zur Sicherung von schriftlichem Kulturgut (GSK) im Archivzentrum Pulheim/Brauweiler bzw. Berlin auf Basis des Verfahrens der Neschen AG in Kooperation mit der Hochschule Hannover
-* maschinelle Konservierung gebundener Materialien aus Papier => "Book-CP-Verfahren"
+* maschinelle Konservierung gebundener Materialien aus Papier &#10132; "Book-CP-Verfahren"
 
 
 

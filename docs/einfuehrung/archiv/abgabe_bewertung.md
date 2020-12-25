@@ -18,14 +18,14 @@
 ### Inhaltliche Kriterien 
 
 * **Historischer Wert**: 
-  * Entstehungszeit beachten => z.B. Erster Weltkrieg 1914-1918, NS-Zeit
+  * Entstehungszeit beachten &#10132; z.B. Erster Weltkrieg 1914-1918, NS-Zeit
 * **Informationswert** des angebotenen Schriftguts
    * wichtige Ereignisse (z.B. Mauerfall)
    * wichtige Personen (z.B. Ministerpräsidenten)
 * **Nutzwert** des angebotenen Schriftguts
-   * Fragen und Themen der wissenschaftlichen Forschung beachten => z.B. Anfangsphase der BRD 1949/1950
+   * Fragen und Themen der wissenschaftlichen Forschung beachten &#10132; z.B. Anfangsphase der BRD 1949/1950
 * **Rechtssicherheit** gewährleisten
-  * Verwaltungshandeln soll nachvollziehbar sein => z.B. Verträge zwischen Staaten
+  * Verwaltungshandeln soll nachvollziehbar sein &#10132; z.B. Verträge zwischen Staaten
 
 
 
@@ -33,7 +33,7 @@
 
 * Reduzierung gleichförmiger **Massenakten**
    * Zufallsstichprobe (z.B. jede 10. Akte, …)
-   * bewusste Stichprobe => z.B. bei personenbezogenen Akten Buchstabenauswahl:
+   * bewusste Stichprobe &#10132; z.B. bei personenbezogenen Akten Buchstabenauswahl:
     * DOT-Verfahren (alle Nachnamen mit Anfangsbuchstaben D, O, T)
     * ERL-Verfahren (alle Nachnamen mit Anfangsbuchstaben E, R, L)
 * **Einzelfallakten**
