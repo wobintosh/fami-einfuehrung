@@ -1,8 +1,8 @@
 ## Bedeutung 
 
-  * kontinuierliche Aufzeichnung => Auskunft über den zeitlichen Verlauf der Krankheit in Wechselwirkung mit durchgeführten Behandlungsmaßnahmen (**Verlaufsdokumentation**)
-  * Verwaltung => z.B. Kostenkontrolle, Statistiken
-  * rechtliche Aspekte => Rechtsstreitigkeiten, Nachweis durchgeführter Maßnahmen
+  * kontinuierliche Aufzeichnung &#10132; Auskunft über den zeitlichen Verlauf der Krankheit in Wechselwirkung mit durchgeführten Behandlungsmaßnahmen (**Verlaufsdokumentation**)
+  * Verwaltung &#10132; z.B. Kostenkontrolle, Statistiken
+  * rechtliche Aspekte &#10132; Rechtsstreitigkeiten, Nachweis durchgeführter Maßnahmen
 
 ## Ziele 
 
