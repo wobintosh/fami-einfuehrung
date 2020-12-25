@@ -1,5 +1,6 @@
 site_name: Zettelkasten
 nav:
+    - Start: index.md
     - FaMI-Einführung: 
         - Archivkunde: 
             - Abgabe & Bewertung: einfuehrung/archiv/abgabe_bewertung.md
@@ -13,7 +14,25 @@ nav:
             - Bestandserhaltung: einfuehrung/archiv/bestandserhaltung.md
             - Erschließung/Verzeichnung: einfuehrung/archiv/erschliessung.md
             - Ordnungsprinzipien: einfuehrung/archiv/ordnungsprinzipien.md
-        - Bibliothek: einfuehrung/bibliothek/index.md
+        - Bibliothek: 
+            - Bestandsarten: einfuehrung/bibliothek/bestandsarten.md
+            - Bestandserhaltung: einfuehrung/bibliothek/bestandserhaltung.md
+            - Bestandsrevision: einfuehrung/bibliothek/bestandsrevision.md
+            - Bibliotheksarten: einfuehrung/bibliothek/bibliotheksarten.md
+            - Buchbearbeitung: einfuehrung/bibliothek/buchbearbeitung.md
+            - Buchhandel: einfuehrung/bibliothek/buchhandel.md
+            - ekz: einfuehrung/bibliothek/ekz.md
+            - Erwerbung: einfuehrung/bibliothek/erwerbung.md
+            - Geschäftsgang: einfuehrung/bibliothek/geschaeftsgang.md
+            - Kataloge: einfuehrung/bibliothek/kataloge.md
+            - Magazinierung: einfuehrung/bibliothek/magazinierung.md
+            - Makulierung: einfuehrung/bibliothek/makulierung.md
+            - Medientypen: einfuehrung/bibliothek/medientypen.md
+            - Publikationsformen: einfuehrung/bibliothek/publikationsformen.md
+            - Recherche: einfuehrung/bibliothek/recherche.md
+            - Sondersammlungen (SDD, SSG): einfuehrung/bibliothek/sondersammlungen.md
+            - Verbünde: einfuehrung/bibliothek/verbuende.md
+            - Wichtige Abkürzungen: einfuehrung/bibliothek/abkuerzungen.md
         - Bildagentur: einfuehrung/bildagentur.md
         - Information & Dokumentation: einfuehrung/information_dokumentation/index.md
         - Medizinische Dokumentation: einfuehrung/medizinische_dokumentation.md
