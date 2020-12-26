@@ -68,6 +68,8 @@ nav:
             - Urheberrecht & Persönlichkeitsrechte: einfuehrung/urheberrecht/bildrechte.md
             - Verwertungsrechte: einfuehrung/urheberrecht/verwertungsrechte.md
         - Hilfsmittel: einfuehrung/hilfsmittel.md
+    - IT:
+        - Excel: it/excel.md
     - Datenschutz: datenschutz.md
     - Impressum: impressum.md
 theme: 
