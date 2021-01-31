@@ -97,3 +97,7 @@ extra:
     - icon: fontawesome/regular/bookmark
       link: https://blog.grdl.eu
       name: Blog
+
+extra_javascript:
+    - _js/tablesort.min.js
+    - _js/tables.js
