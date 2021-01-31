@@ -73,8 +73,11 @@ nav:
     - Nachschlagewerke: 
         - Allgemeine: nachschlagewerke/allgemein.md
         - Biografische: nachschlagewerke/biografisch.md
+        - Design & Typografie: nachschlagewerke/design-typografie.md
         - Politik & Recht: nachschlagewerke/politik-recht.md
+        - Regional & thematisch: nachschlagewerke/regional-thematisch.md
         - Wikidata: nachschlagewerke/wikidata.md
+        - Wörterbuch: nachschlagewerke/wörterbücher.md
     - Datenschutz: datenschutz.md
     - Impressum: impressum.md
 theme: 
