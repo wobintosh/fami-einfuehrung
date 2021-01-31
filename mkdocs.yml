@@ -70,6 +70,11 @@ nav:
         - Hilfsmittel: einfuehrung/hilfsmittel.md
     - IT:
         - Excel: it/excel.md
+    - Nachschlagewerke: 
+        - Allgemeine: nachschlagewerke/allgemein.md
+        - Biografische: nachschlagewerke/biografisch.md
+        - Politik & Recht: nachschlagewerke/politik-recht.md
+        - Wikidata: nachschlagewerke/wikidata.md
     - Datenschutz: datenschutz.md
     - Impressum: impressum.md
 theme: 
