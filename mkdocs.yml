@@ -68,7 +68,7 @@ nav:
             - Urheberrecht & Persönlichkeitsrechte: einfuehrung/urheberrecht/bildrechte.md
             - Verwertungsrechte: einfuehrung/urheberrecht/verwertungsrechte.md
         - Hilfsmittel: einfuehrung/hilfsmittel.md
-    - Kulturelles Erbe in Serien: /varia/kulturelles-erbe-serien.md
+    - Kulturelles Erbe in Serien: varia/kulturelles-erbe-serien.md
     - IT:
         - Excel: it/excel.md
     - Nachschlagewerke: 
@@ -92,6 +92,7 @@ markdown_extensions:
     - toc: 
         permalink: true
     - footnotes
+    - mdx_truly_sane_lists
 plugins:
     - search:
         lang: de

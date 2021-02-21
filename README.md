@@ -12,6 +12,9 @@ Diejenigen Inhalte der Einführung, bei denen ich etwas mehr geändert habe, sin
 
 - [Mkdocs](https://www.mkdocs.org/)
 - [Material Theme](https://squidfunk.github.io/mkdocs-material/) (Theme)
-
+- Markdown-Extensions:
+  - toc (Inhaltsübersichten)
+  - footnotes
+  - [mdx_truly_sane_lists](https://github.com/radude/mdx_truly_sane_lists) (Für verschachtelte Listen)
 - [Typora](https://typora.io/) (z.Zt. der Markdown-Editor meiner Wahl)
 
