@@ -1,4 +1,5 @@
 site_name: Zettelkasten
+repo_url: https://github.com/wobintosh/fami-einfuehrung
 nav:
     - Start: index.md
     - FaMI-Einführung: 
