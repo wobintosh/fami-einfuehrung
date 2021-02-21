@@ -86,7 +86,6 @@ theme:
     language: de
     font: false
     features:
-        - navigation.expand
         - search.highlight
 markdown_extensions:
     - toc: 
