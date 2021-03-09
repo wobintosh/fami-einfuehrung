@@ -96,6 +96,7 @@ markdown_extensions:
 plugins:
     - search:
         lang: de
+    - git-revision-date
 extra:
   social:
     - icon: fontawesome/brands/twitter
