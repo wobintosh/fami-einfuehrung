@@ -14,9 +14,11 @@ Diejenigen Inhalte der Einführung, bei denen ich etwas mehr geändert habe, sin
 - [Material Theme](https://squidfunk.github.io/mkdocs-material/) (Theme)
 - Markdown-Extensions:
   - [footnotes](https://python-markdown.github.io/extensions/footnotes/) (Fußnoten)
-  - [Highlight](https://facelessuser.github.io/pymdown-extensions/extensions/highlight/) (Für Code-Highlighting)
+  - [Highlight](https://facelessuser.github.io/pymdown-extensions/extensions/highlight/) (Code-Highlighting in Blöcken)
+  - [InlineHilite](https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/) (Inline-Code-Highlighting)
   - [Keys](https://facelessuser.github.io/pymdown-extensions/extensions/keys/) (Hervorhebung von Tastenkombinationen)
   - [mdx_truly_sane_lists](https://github.com/radude/mdx_truly_sane_lists) (Verschachtelte Listen)
+  - [Superfences](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/) (Code-Verschachtelung, Blöcke)
   - [toc](https://python-markdown.github.io/extensions/toc/) (Inhaltsübersichten)
 
 
