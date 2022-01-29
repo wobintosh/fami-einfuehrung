@@ -13,8 +13,13 @@ Diejenigen Inhalte der Einführung, bei denen ich etwas mehr geändert habe, sin
 - [Mkdocs](https://www.mkdocs.org/)
 - [Material Theme](https://squidfunk.github.io/mkdocs-material/) (Theme)
 - Markdown-Extensions:
-  - toc (Inhaltsübersichten)
-  - footnotes
-  - [mdx_truly_sane_lists](https://github.com/radude/mdx_truly_sane_lists) (Für verschachtelte Listen)
-- [Typora](https://typora.io/) (z.Zt. der Markdown-Editor meiner Wahl)
+  - [footnotes](https://python-markdown.github.io/extensions/footnotes/) (Fußnoten)
+  - [Highlight](https://facelessuser.github.io/pymdown-extensions/extensions/highlight/) (Für Code-Highlighting)
+  - [Keys](https://facelessuser.github.io/pymdown-extensions/extensions/keys/) (Hervorhebung von Tastenkombinationen)
+  - [mdx_truly_sane_lists](https://github.com/radude/mdx_truly_sane_lists) (Verschachtelte Listen)
+  - [toc](https://python-markdown.github.io/extensions/toc/) (Inhaltsübersichten)
 
+
+## Hinweis zum Javascript
+
+Im Repository nicht enthalten ist die js-Bibliothek [tablesort](https://github.com/tristen/tablesort) von tristen. Bei mir liegt diese lokal auf dem Server, um den Datenverkehr nach außen zu verhindern, für die Weiterverwendung muss entweder die Datei tablesort.min.js von tablesort im Ordner ``docs/_js`` eingefügt werden oder die Einstellung unter ```mkdocs.yml``` für zusätzliches Javascript (```extra_javascript```) angepasst werden. Andernfalls sind die Tabellen nicht sortierbar.

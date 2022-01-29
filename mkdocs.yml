@@ -71,6 +71,7 @@ nav:
         - Hilfsmittel: einfuehrung/hilfsmittel.md
     - Kulturelles Erbe in Serien: varia/kulturelles-erbe-serien.md
     - IT:
+        - Bash-Helferlein: it/bash.md
         - Excel: it/excel.md
     - Nachschlagewerke: 
         - Allgemeine: nachschlagewerke/allgemein.md
@@ -80,8 +81,8 @@ nav:
         - Regional & thematisch: nachschlagewerke/regional-thematisch.md
         - Wikidata: nachschlagewerke/wikidata.md
         - Wörterbuch: nachschlagewerke/wörterbücher.md
-    - Datenschutz: datenschutz.md
-    - Impressum: impressum.md
+    - Datenschutz: https://blog.grdl.eu/datenschutz/
+    - Impressum: https://blog.grdl.eu/impressum/
 theme: 
     name: material
     language: de
@@ -93,6 +94,10 @@ markdown_extensions:
         permalink: true
     - footnotes
     - mdx_truly_sane_lists
+    - pymdownx.highlight:
+        anchor_linenums: true
+        use_pygments: true
+    - pymdownx.keys
 plugins:
     - search:
         lang: de

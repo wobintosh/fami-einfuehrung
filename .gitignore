@@ -4,3 +4,4 @@ docs/impressum.md
 docs/_js/tablesort.min.js
 _todo-*
 deploy.sh
+*.ztr-directory
