@@ -73,6 +73,7 @@ nav:
     - IT:
         - Bash-Helferlein: it/bash.md
         - Excel: it/excel.md
+        - Tools: it/tools.md
     - Nachschlagewerke: 
         - Allgemeine: nachschlagewerke/allgemein.md
         - Biografische: nachschlagewerke/biografisch.md
@@ -81,6 +82,8 @@ nav:
         - Regional & thematisch: nachschlagewerke/regional-thematisch.md
         - Wikidata: nachschlagewerke/wikidata.md
         - Wörterbuch: nachschlagewerke/wörterbücher.md
+    - Varia:
+        - Minecraft: varia/minecraft.md
     - Datenschutz: https://blog.grdl.eu/datenschutz/
     - Impressum: https://blog.grdl.eu/impressum/
 theme: 
