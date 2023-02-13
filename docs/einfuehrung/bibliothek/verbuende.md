@@ -39,27 +39,27 @@ Aufgaben der **Verbundzentrale** des GBV (VZG):
 
 ### Angebote 
 
-  * Verbundkatalog des GBV (GVK)
-  * Aufsatzdatenbanken:
-    * Online Contents (OLC; Artikel vorwiegend aus naturwissenschaftlichen Zeitschriften)
-    * OLC-Sondersammelgebietsausschnitte (OLC-SSG)
-  * Spezialbibliographien
-  * VZG: Hosting-Partner für nationale und internationale Projekte:
-    * Altkartendatenbank (IKAR)
-    * Verzeichnis Deutscher Drucke des 17. Jahrhunderts (VD17)
-    * Bibliographie des Musikschrifttums online (BMS)
-    * Leibniz-Bibliographie
-    * ...
-  * Bestellung:
-    * Online-Fernleihe
-    * Dokumentlieferdienst subito
-  * Lokale Bibliothekssystem (LBS)
-  * Serviceangebote des VZG:
-    * LBS
-    * VuFind
-    * PAIA (= Patrons Account Information API; Schnittstelle zur Authentifizierung der Bibliotheksnutzer)
-    * SFX (= Special Effects; Verlinkung von Literaturstellen zu Volltexten)
-    * OCR (= Optical Character Recognition; Automatische Texterkennung)
-    * Kulturerbe Niedersachsen
-    * Open Access-Statistik
-    * Münzdatenbank KENOM (Kooperative Erschließung und Nutzung der Objektdaten von Münzsammlungen)
+- Verbundkatalog des GBV (GVK)
+- Aufsatzdatenbanken:
+  - Online Contents (OLC; Artikel vorwiegend aus naturwissenschaftlichen Zeitschriften)
+  - OLC-Sondersammelgebietsausschnitte (OLC-SSG)
+- Spezialbibliographien
+- VZG: Hosting-Partner für nationale und internationale Projekte:
+  - Altkartendatenbank (IKAR)
+  - Verzeichnis Deutscher Drucke des 17. Jahrhunderts (VD17)
+  - Bibliographie des Musikschrifttums online (BMS)
+  - Leibniz-Bibliographie
+  - ...
+- Bestellung:
+  - Online-Fernleihe
+  - Dokumentlieferdienst subito
+- Lokale Bibliothekssystem (LBS)
+- Serviceangebote des VZG:
+  - LBS
+  - VuFind
+  - PAIA (= Patrons Account Information API; Schnittstelle zur Authentifizierung der Bibliotheksnutzer)
+  - SFX (= Special Effects; Verlinkung von Literaturstellen zu Volltexten)
+  - OCR (= Optical Character Recognition; Automatische Texterkennung)
+  - Kulturerbe Niedersachsen
+  - Open Access-Statistik
+  - Münzdatenbank KENOM (Kooperative Erschließung und Nutzung der Objektdaten von Münzsammlungen)

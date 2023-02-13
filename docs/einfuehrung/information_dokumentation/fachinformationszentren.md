@@ -2,28 +2,28 @@
 
 ## Geschichte der Fachinformationszentren 
 
-  * Ausgangspunkt für den Aufbau der FIZ: Sputnik-Schock (erster Satellit im All: Ostblock/Russland)
-  * In der Folge mehrere Förderprogramme, erstes: 1974 - 1977 Programm zur Förderung der Information und Dokumentation ("IuD-Programm")
-  * Ursprünglich vorgesehen: 16 FIZ (bis 1985 gegründet: FIZ Chemie; FIZ Energie, Physik, Mathematik; FIZ Hüttenkunde, Werkstoffe, Metallbearbeitung und Metallverarbeitung; FIZ Elektrotechnik, Feinwerktechnik, Maschinenbau; IZ Technische Regeln)
+- Ausgangspunkt für den Aufbau der FIZ: Sputnik-Schock (erster Satellit im All: Ostblock/Russland)
+- In der Folge mehrere Förderprogramme, erstes: 1974 - 1977 Programm zur Förderung der Information und Dokumentation ("IuD-Programm")
+- Ursprünglich vorgesehen: 16 FIZ (bis 1985 gegründet: FIZ Chemie; FIZ Energie, Physik, Mathematik; FIZ Hüttenkunde, Werkstoffe, Metallbearbeitung und Metallverarbeitung; FIZ Elektrotechnik, Feinwerktechnik, Maschinenbau; IZ Technische Regeln)
 
 
 
 ## Aufgaben 
 
-  * Dokumentation
-  * Aufbau und Bereitstellung von Datenbanken
-  * Erstellung und Vertrieb von Arbeitshilfen
-  * Host
-  * Help Desk, Newsletter
-  * Nutzer-Schulungen
-  * Online-Informationsvermittlung und -recherchen
-  * Referateblätter und Abstracts
-  * SDI- und Profildienste
-  * Fachinformation
-  * Clearingstelle
-  * Übersetzungen
-  * Literaturversorgung
-  * Nationale und internationale Zusammenarbeit[^1]
+- Dokumentation
+- Aufbau und Bereitstellung von Datenbanken
+- Erstellung und Vertrieb von Arbeitshilfen
+- Host
+- Help Desk, Newsletter
+- Nutzer-Schulungen
+- Online-Informationsvermittlung und -recherchen
+- Referateblätter und Abstracts
+- SDI- und Profildienste
+- Fachinformation
+- Clearingstelle
+- Übersetzungen
+- Literaturversorgung
+- Nationale und internationale Zusammenarbeit[^1]
 
 
 
@@ -66,17 +66,17 @@
 
 ##Aufgaben von FaMIs in FIZ
 
-  * Informationen zum Fachgebiet des FIZ vermitteln
-  * Informationen erschließen
-  * Fachinformationen in Faktendatenbanken recherchieren
-  * Mitarbeit an Datenbanken
-  * Betreuen von Informationsportalen
-  * Erfassen von Aufsätzen aus internationalen Fachzeitschriften für Datenbanken
-  * Unterstützung der Mitarbeiter bei der Erstellung von Thesauren
-  * Übermitteln von Volltexten an Kunden
-  * Bearbeiten von Rechercheaufträgen 
-  * Anfertigen von Kopien
-  * Rechnungen über Dienstleistungen ausstellen
+- Informationen zum Fachgebiet des FIZ vermitteln
+- Informationen erschließen
+- Fachinformationen in Faktendatenbanken recherchieren
+- Mitarbeit an Datenbanken
+- Betreuen von Informationsportalen
+- Erfassen von Aufsätzen aus internationalen Fachzeitschriften für Datenbanken
+- Unterstützung der Mitarbeiter bei der Erstellung von Thesauren
+- Übermitteln von Volltexten an Kunden
+- Bearbeiten von Rechercheaufträgen 
+- Anfertigen von Kopien
+- Rechnungen über Dienstleistungen ausstellen
 
 
 

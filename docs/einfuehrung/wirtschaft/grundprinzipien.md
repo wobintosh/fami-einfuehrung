@@ -6,12 +6,12 @@ Privatunternehmen arbeiten nach dem **erwerbswirtschaftlichen Prinzip**, das bed
 
 Zur Gewinnmaximierung bedarf es einer Reihe unterstützender Ziele, beispielsweise:
 
-  * Verbesserung von Produktivität und Rentabilität
-  * hohe Qualität
-  * Innovation
-  * Optimierung der Betriebsorganisation und der betrieblichen Abläufe
-  * Arbeitssicherheit
-  * Image
+- Verbesserung von Produktivität und Rentabilität
+- hohe Qualität
+- Innovation
+- Optimierung der Betriebsorganisation und der betrieblichen Abläufe
+- Arbeitssicherheit
+- Image
 
 
 
@@ -21,10 +21,10 @@ Zur Gewinnmaximierung bedarf es einer Reihe unterstützender Ziele, beispielswei
 
 Zur Bedarfsdeckung verfolgen öffentliche Unternehmen unterschiedliche Teilziele:
 
-  * Bedarfsdeckung
-  * Verlustminimierung
-  * Kostendeckung (kein Gewinn, Ausgaben werden durch Einnahmen ausgeglichen)
-  * angemessener Gewinn (z.B. für Verlustausgleich bei anderen öffentlichen Unternehmen)
+- Bedarfsdeckung
+- Verlustminimierung
+- Kostendeckung (kein Gewinn, Ausgaben werden durch Einnahmen ausgeglichen)
+- angemessener Gewinn (z.B. für Verlustausgleich bei anderen öffentlichen Unternehmen)
 
 
 

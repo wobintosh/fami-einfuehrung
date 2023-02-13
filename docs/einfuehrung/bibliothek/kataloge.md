@@ -4,47 +4,47 @@
 
 ## Aufgaben/Funktionen 
 
-  * Bestandserschließung
-    * Auskunft über Bestände
-    * Formalkataloge (Formalerschließung, vom Titel ausgehend)
-    * Sachktaloge (Sacherschließung, vom Inhalt ausgehend)
-  * Literaturvermittlung
-    * Information über Literatur
-    * systematische Recherche
-    * Bestandsnachweise
-  * Versorgung des Ausleihsystems
-    * Integrierte Systeme für Erwerbung, Katalogisierung und Benutzung
-    * Auskunft über Verfügbarkeit (OPAC)
-  * Bestandsinventarisierung
-    * älteste Katalogart: Inventarverzeichnis
-  * Bibliothekarisches Arbeitsinstrument
-    * Auskunft
-    * Bestandsaufbau
-    * [[bibliothek:revision|Bestandsrevision]]
-    * Katalogisierung
+- Bestandserschließung
+  - Auskunft über Bestände
+  - Formalkataloge (Formalerschließung, vom Titel ausgehend)
+  - Sachktaloge (Sacherschließung, vom Inhalt ausgehend)
+- Literaturvermittlung
+  - Information über Literatur
+  - systematische Recherche
+  - Bestandsnachweise
+- Versorgung des Ausleihsystems
+  - Integrierte Systeme für Erwerbung, Katalogisierung und Benutzung
+  - Auskunft über Verfügbarkeit (OPAC)
+- Bestandsinventarisierung
+  - älteste Katalogart: Inventarverzeichnis
+- Bibliothekarisches Arbeitsinstrument
+  - Auskunft
+  - Bestandsaufbau
+  - [Bestandsrevision](../bestandsrevision)
+  - Katalogisierung
 
 
 
 Aus Nutzersicht auch:
 
-  * Verlässliches Finden
-    * was ist (nicht) vorhanden?
-  * Unterscheidung
-    * Vermeidung von Redundanz
-  * Zusammenführen
-    * Suche nach 
-      * Werken eines Verfassers/Urhebers
-      * vorhandene Ausgaben/Versionen
-      * Teilen mehrbändiger Werke
-      * Teilen einer Serie
-      * Werken zu einem Thema
-      * verwandten Werken
-  * Zugänglich machen
-    * Nutzungsnachweis
-    * Standortangabe (Signatur)
-    * Vormerkfunktion
-    * Bestellfunktion (Fernleihe/Direktlieferdienste)
-    * ggf. Angabe zu Nutzungsbedingungen
+- Verlässliches Finden
+  - was ist (nicht) vorhanden?
+- Unterscheidung
+  - Vermeidung von Redundanz
+- Zusammenführen
+  - Suche nach 
+    - Werken eines Verfassers/Urhebers
+    - vorhandene Ausgaben/Versionen
+    - Teilen mehrbändiger Werke
+    - Teilen einer Serie
+    - Werken zu einem Thema
+    - verwandten Werken
+- Zugänglich machen
+  - Nutzungsnachweis
+  - Standortangabe (Signatur)
+  - Vormerkfunktion
+  - Bestellfunktion (Fernleihe/Direktlieferdienste)
+  - ggf. Angabe zu Nutzungsbedingungen
 
 
 
@@ -63,42 +63,42 @@ Aus Nutzersicht auch:
 
 ### Alphabetischer Katalog 
 
-  * Verzeichnung in alphabetischer Reihenfolge
-  * Fragestellungen:
-    * Ist ein bestimmtes Werk vorhanden?
-    * Welche Werke eines bestimmten Verfassers sind vorhanden?
-    * Welche Auflagen, Ausgaben, Übersetzungen eines bestimmten Werkes sind vorhanden?
-  * Hilfsmittel bei Bestellungen (Vermeidung von Dubletten)
+- Verzeichnung in alphabetischer Reihenfolge
+- Fragestellungen:
+  - Ist ein bestimmtes Werk vorhanden?
+  - Welche Werke eines bestimmten Verfassers sind vorhanden?
+  - Welche Auflagen, Ausgaben, Übersetzungen eines bestimmten Werkes sind vorhanden?
+- Hilfsmittel bei Bestellungen (Vermeidung von Dubletten)
 
 
 
 ### Schlagwortkatalog 
 
-  * Verzeichnung alphabetisch nach Schlagwörtern
-  * Fragestellung:
-    * Welche Bücher sind zu einem bestimmten Begriff vorhanden?
-  * leicht handhabbar, benutzerfreundlich; aber: hoher Arbeitsaufwand zur Erstellung
+- Verzeichnung alphabetisch nach Schlagwörtern
+- Fragestellung:
+  - Welche Bücher sind zu einem bestimmten Begriff vorhanden?
+- leicht handhabbar, benutzerfreundlich; aber: hoher Arbeitsaufwand zur Erstellung
 
 
 
 ### Systematischer Katalog 
 
-  * Verzeichnung nach Systematik
-  * spiegelt die Aufstellung im Regal wieder
-  * Fragestellung:
-    * Welche Werke aus einem bestimmten Sachgebiet sind vorhanden?
-  * Hilfsmittel für planvollen und systematischen Bestandsaufbau
-  * Hilfsmittel für Bestandsrevision
+- Verzeichnung nach Systematik
+- spiegelt die Aufstellung im Regal wieder
+- Fragestellung:
+  - Welche Werke aus einem bestimmten Sachgebiet sind vorhanden?
+- Hilfsmittel für planvollen und systematischen Bestandsaufbau
+- Hilfsmittel für Bestandsrevision
 
 
 
 ### Titelkatalog 
 
-  * Verzeichnung in alphabetischer Reihenfolge nach Titeln
-  * Fragestellungen:
-    * Ist ein Buch (nur der Titel bekannt) vorhanden?
-    * Gibt es einen Verfasser, wenn ja, wie heißt er?
-  * Hilfsmittel zur Erschließung von Belletristik
+- Verzeichnung in alphabetischer Reihenfolge nach Titeln
+- Fragestellungen:
+  - Ist ein Buch (nur der Titel bekannt) vorhanden?
+  - Gibt es einen Verfasser, wenn ja, wie heißt er?
+- Hilfsmittel zur Erschließung von Belletristik
 
 
 
@@ -110,15 +110,15 @@ Der Online-Katalog ist eine Datenbank mit strukturierten Datensätzen für Büch
 
 ### Funktionen 
 
-  * Recherche
-    * Mediendaten
-    * Ausleihstatus
-    * voraussichtliche Rückgabe
-    * Vormerkungen
-  * Ausleihverwaltung
-    * Kontostandsabfrage
-    * Vormerkung
-    * Verlängerung
+- Recherche
+  - Mediendaten
+  - Ausleihstatus
+  - voraussichtliche Rückgabe
+  - Vormerkungen
+- Ausleihverwaltung
+  - Kontostandsabfrage
+  - Vormerkung
+  - Verlängerung
 
 
 
@@ -132,23 +132,23 @@ Der Online-Katalog ist eine Datenbank mit strukturierten Datensätzen für Büch
 
 
 ## Sonderformen 
-  - **Dienstkatalog**: 
-    - meist nur Bibliothekaren zugänglich, Benutzer höchstens ausnahmsweise
-    - mitunter Duplikat des Publikumskatalogs
-  - **Publikumskatalog**:
-    - steht den Benutzern zur Verfügung
-  - **Hauptkatalog**: 
-    - ganzer bzw. hauptsächlicher Bestand
-    - meist AK und SwK
-    - heute meist OPAC 
-  - **Teilkatalog**: 
-    - begrenzter Teil des Bestands, der auch im Hauptkatalog verzeichnet ist
-    - z.B. Lehrbuchsammlung, Lesesaalbestand, Musikalien
-    - auch sachliche Sonderkataloge (z.B. biographische Werke, Literatur für ein Land oder eine Region)
-  - **Spezialkataloge**:
-    - nicht im Hauptkatalog verzeichnet
-    - z.B. Handschriften, Bildsammlungen, AV  -Medien
-    - zunehmend im OPAC erschlossen
+- **Dienstkatalog**: 
+  - meist nur Bibliothekaren zugänglich, Benutzer höchstens ausnahmsweise
+  - mitunter Duplikat des Publikumskatalogs
+- **Publikumskatalog**:
+  - steht den Benutzern zur Verfügung
+- **Hauptkatalog**: 
+  - ganzer bzw. hauptsächlicher Bestand
+  - meist AK und SwK
+  - heute meist OPAC 
+- **Teilkatalog**: 
+  - begrenzter Teil des Bestands, der auch im Hauptkatalog verzeichnet ist
+  - z.B. Lehrbuchsammlung, Lesesaalbestand, Musikalien
+  - auch sachliche Sonderkataloge (z.B. biographische Werke, Literatur für ein Land oder eine Region)
+- **Spezialkataloge**:
+  - nicht im Hauptkatalog verzeichnet
+  - z.B. Handschriften, Bildsammlungen, AV-Medien
+  - zunehmend im OPAC erschlossen
 
 
 

@@ -2,8 +2,8 @@
 
 Der Geschäftsgang gehört zur Ablauforganisation in einer Bibliothek:
 
-  * "Wanderung" durch die verschiedenen Bearbeitungsstellen bis zum Standort
-  * "Lauf des Buches" in einer genau festgelegten Abfolge
+- "Wanderung" durch die verschiedenen Bearbeitungsstellen bis zum Standort
+- "Lauf des Buches" in einer genau festgelegten Abfolge
 
 
 
@@ -13,10 +13,10 @@ Der Geschäftsgang gehört zur Ablauforganisation in einer Bibliothek:
 
 ## Aufgaben des Geschäftsgangs 
 
-  * rationelle und zweckmäßige Organisation
-      * Lieferzeit rationalisieren
-      * Geschäftsgang beschleunigen
-      * Neuerwerbungen den Benutzern so schnell wie möglich zur Verfügung stellen
+- rationelle und zweckmäßige Organisation
+  - Lieferzeit rationalisieren
+  - Geschäftsgang beschleunigen
+  - Neuerwerbungen den Benutzern so schnell wie möglich zur Verfügung stellen
 
 
 
@@ -45,17 +45,17 @@ Der Klassische Geschäftsgang einer Wissenschaftlichen Bibliothek umfasst bei de
 
 
 1. Beschaffung
-    1. [Literaturauswahl](erwerbung.md#literaturauswahl)
-    2. [Vorakzession](buchbearbeitung.md#vorakzession) (Bestellvorbereitung)
-    3. Bestellkatalogisierung (in integrierten Systemen)
-    4. Bestellung (einschließlich Zugangskontrolle und ggf. Mahnung)
-    5. Bestellverwaltung
+  1. [Literaturauswahl](erwerbung.md#literaturauswahl)
+  2. [Vorakzession](buchbearbeitung.md#vorakzession) (Bestellvorbereitung)
+  3. Bestellkatalogisierung (in integrierten Systemen)
+  4. Bestellung (einschließlich Zugangskontrolle und ggf. Mahnung)
+  5. Bestellverwaltung
 2. Bearbeitung
-    1. [Zugangsbearbeitung](buchbearbeitung.md#zugangsbearbeitung-akzession-akzessionierung), Rechnungsbearbeitung, Erwerbungsstatistik
-    2. Formalerschließung
-    3. Sacherschließung
-    4. abschließende Buchbearbeitung
-    5. Einstellen in Magazin/Regal
+  1. [Zugangsbearbeitung](buchbearbeitung.md#zugangsbearbeitung-akzession-akzessionierung), Rechnungsbearbeitung, Erwerbungsstatistik
+  2. Formalerschließung
+  3. Sacherschließung
+  4. abschließende Buchbearbeitung
+  5. Einstellen in Magazin/Regal
 
 
 

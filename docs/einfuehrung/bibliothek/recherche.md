@@ -4,42 +4,42 @@
 
 ## Bedeutung 
 
-  * Ermittlungsarbeit
-    * &#8594; Übermitteln
-    * &#8594; gezieltes Wiederauffinden (Information Retrieval)
-  * tiefere/genauere Recherche
-  * Recherchestrategien
-  * &#10132; **professionelle Suche**
+- Ermittlungsarbeit
+  - &#8594; Übermitteln
+  - &#8594; gezieltes Wiederauffinden (Information Retrieval)
+- tiefere/genauere Recherche
+- Recherchestrategien
+- &#10132; **professionelle Suche**
 
 
 
 ## Recherche nach Büchern (Monographien, mehrbändige Werke)
 
-  * mit den Begriffen arbeiten, die zur Verfügung stehen
-  * Sucheingabe:
-     - leichteste Suchkategorie wählen: ``ALL``
-     - Verfassernachname und 1 sinntragendes Wort aus dem Titel kombinieren (``UND-Verknüpfung``)
-     - Verfassernachname weglassen (am fehlerträchtigsten), weitersuchen mit 2 sinntragenden Wörtern aus dem Titel (Trunkieren)
-  * wenn keine Ergebnisse: 
-    * Suchkategorie wechseln
-    * Rechtschreibung prüfen
-    * Erweiterte Suche benutzen
-    * Trunkierung ändern
-    * Suchgeschichte ansehen
+- mit den Begriffen arbeiten, die zur Verfügung stehen
+- Sucheingabe:
+  - leichteste Suchkategorie wählen: ``ALL``
+  - Verfassernachname und 1 sinntragendes Wort aus dem Titel kombinieren (``UND-Verknüpfung``)
+  - Verfassernachname weglassen (am fehlerträchtigsten), weitersuchen mit 2 sinntragenden Wörtern aus dem Titel (Trunkieren)
+- wenn keine Ergebnisse: 
+  - Suchkategorie wechseln
+  - Rechtschreibung prüfen
+  - Erweiterte Suche benutzen
+  - Trunkierung ändern
+  - Suchgeschichte ansehen
 
 
 
 ## Recherche nach Zeitschriften oder Zeitschriftenaufsätzen 
 
-  * Aufsatz als unselbstständiges Werk ermittelbar? (Im GVK als **unselbstständige Literatur** verzeichnet)
-  * Reihenfolge bei der Literaturangabe beachten (i.d.R.: Zeitschriftentitel (= selbstständiges Werk) hinter "In:")
-  * ggf. Kombination von Angaben aus dem Aufsatz mit Angaben aus dem Zeitschriftentitel in der Kategorie ``ALL``
-  * wenn es keine Ergebnisse gibt, ist der Aufsatz vermutlich nicht verzeichnet, also Suche auf Zeitschriftenebene:
-    * Suche nach Titel über ``ALL``, spezialisierte Suchkategorien (``SER``, ``GTI``)
-    * Sucheingabe:
-      - sinntragende Worte des Zeitschriftentitels
-      - Zitiertitel (= Abkürzungen)
-      - bei längeren Ergebnislisten werden offene Aufnahmen i.d.R. am Ende gelistet
+- Aufsatz als unselbstständiges Werk ermittelbar? (Im GVK als **unselbstständige Literatur** verzeichnet)
+- Reihenfolge bei der Literaturangabe beachten (i.d.R.: Zeitschriftentitel (= selbstständiges Werk) hinter "In:")
+- ggf. Kombination von Angaben aus dem Aufsatz mit Angaben aus dem Zeitschriftentitel in der Kategorie ``ALL``
+- wenn es keine Ergebnisse gibt, ist der Aufsatz vermutlich nicht verzeichnet, also Suche auf Zeitschriftenebene:
+  - Suche nach Titel über ``ALL``, spezialisierte Suchkategorien (``SER``, ``GTI``)
+  - Sucheingabe:
+    - sinntragende Worte des Zeitschriftentitels
+    - Zitiertitel (= Abkürzungen)
+    - bei längeren Ergebnislisten werden offene Aufnahmen i.d.R. am Ende gelistet
 
 
 
@@ -60,9 +60,9 @@ Hier werden die Suchoperatoren des GVK behandelt, für die allgemein üblichen B
 
 ### Platzhalter 
 
-  * auch: Wildcards, Joker
-  * Schreibweise des Suchbegriffs unbekannt, Suche nach Variationen des Suchbegriffs
-  * am Ende des Suchbegriffs (__Trunkierung__) oder in der Mitte eines Suchbegriffs (__Maskierung__) möglich, nicht jedoch am Anfang eines Suchbegriffs
+- auch: Wildcards, Joker
+- Schreibweise des Suchbegriffs unbekannt, Suche nach Variationen des Suchbegriffs
+- am Ende des Suchbegriffs (__Trunkierung__) oder in der Mitte eines Suchbegriffs (__Maskierung__) möglich, nicht jedoch am Anfang eines Suchbegriffs
 
 
 

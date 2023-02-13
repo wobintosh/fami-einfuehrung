@@ -1,13 +1,13 @@
 ## Unterscheidungskriterien 
 
-  * Zielgruppe
-  * Art der Bestände
-  * Versorgungsbereich
-  * Hauptfunktionen
-  * Rechtsform
-  * Trägerinstitution
-  * Art und Anteil digitaler Medien
-  * Art und Umfang digitaler Medien
+- Zielgruppe
+- Art der Bestände 
+- Versorgungsbereich
+- Hauptfunktionen
+- Rechtsform
+- Trägerinstitution
+- Art und Anteil digitaler Medien
+- Art und Umfang digitaler Medien
 
 ### Hauptfunktionen
 
@@ -159,41 +159,41 @@ Als Stiftung geführt werden:
 
 ### Geschichte 
 
-  * 1912 Vertrag über die Gründung der "Deutschen Bücherei" in Leipzig (Börsenverein & Stadt Leipzig)
-  * 1931 erstmaliges Erscheinen der "Deutschen Nationalbibliographie"
-  * 1940 "Gesetz über die Deutsche Bücherei" - Entlassung aus der Obhut des Börsenvereins &#10132; Anstalt des öffentlichen Rechts
-  * 1945 Wiedereröffnung nach Kriegsschäden, nur noch Ostblock
-  * 1946 Gründung der "Deutschen Biblitohek" in Frankfurt (ab 1947 eine Einrichtung des Deutschen Buchhandels)
-  * 1950 Eingliederung des Deutschen Buch- und Schriftenmuseums
-  * 1970 Gründung des Deutschen Musikarchivs, Berlin, ans Teil der Deutschen Bibliothek Frankfurt
-  * 1990 Zusammenschluss der Nationalbibliotheken &#10132; Sitz: Frankfurt, "Die Deutsche Bibliothek"
-  * 2006 "Gesetz über die Deutsche Nationalbibliothek"
-  * 2010 Zuordnung des Deutschen Musikarchivs an die DNB Leipzig
+- 1912 Vertrag über die Gründung der "Deutschen Bücherei" in Leipzig (Börsenverein & Stadt Leipzig)
+- 1931 erstmaliges Erscheinen der "Deutschen Nationalbibliographie"
+- 1940 "Gesetz über die Deutsche Bücherei" - Entlassung aus der Obhut des Börsenvereins &#10132; Anstalt des öffentlichen Rechts
+- 1945 Wiedereröffnung nach Kriegsschäden, nur noch Ostblock
+- 1946 Gründung der "Deutschen Biblitohek" in Frankfurt (ab 1947 eine Einrichtung des Deutschen Buchhandels)
+- 1950 Eingliederung des Deutschen Buch- und Schriftenmuseums
+- 1970 Gründung des Deutschen Musikarchivs, Berlin, ans Teil der Deutschen Bibliothek Frankfurt
+- 1990 Zusammenschluss der Nationalbibliotheken &#10132; Sitz: Frankfurt, "Die Deutsche Bibliothek"
+- 2006 "Gesetz über die Deutsche Nationalbibliothek"
+- 2010 Zuordnung des Deutschen Musikarchivs an die DNB Leipzig
 
 
 
 ### Rechtsform 
 
-  * Rechtsfähige bundesunmittelbare Anstalt des öffentlichen Rechts
-  * &#10132; Rechtsfähige Verwaltungseinheit, die keine Mitglieder hat, sondern Verwaltungsmittel zusammenfasst
+- Rechtsfähige bundesunmittelbare Anstalt des öffentlichen Rechts
+- &#10132; Rechtsfähige Verwaltungseinheit, die keine Mitglieder hat, sondern Verwaltungsmittel zusammenfasst
 
 
 
 ### Auftrag 
 
-  * Sammlung in Deutschland veröffentlichter Medien ab 1913
-    + Inventarisierung
-    + Erschließung
-    + Sicherung
-    + Nutzbarmachung
-  * Sammlung im Ausland veröffentlichter... 
-    + deutscher Medien
-    + Übersetzungen deutscher Medien
-    + fremdsprachiger Werke über Deutschland ab 1945
-  * Erfüllung zentraler bibliothekarischer und nationalbibliografischer Aufgaben
-  * Betrieb des Deutschen Exilarchivs 1933 - 1945
-  * Betrieb der Anne-Frank-Shoa-Bibliothek
-  * Betrieb des Deutschen Buch- und Schriftenmuseums
+- Sammlung in Deutschland veröffentlichter Medien ab 1913
+  - Inventarisierung
+  - Erschließung
+  - Sicherung
+  - Nutzbarmachung
+- Sammlung im Ausland veröffentlichter... 
+  - deutscher Medien
+  - Übersetzungen deutscher Medien
+  - fremdsprachiger Werke über Deutschland ab 1945
+- Erfüllung zentraler bibliothekarischer und nationalbibliografischer Aufgaben
+- Betrieb des Deutschen Exilarchivs 1933 - 1945
+- Betrieb der Anne-Frank-Shoa-Bibliothek
+- Betrieb des Deutschen Buch- und Schriftenmuseums
 
 
 #### Nationalbibliographie 
@@ -223,109 +223,109 @@ Vereinfachte Darstellung, vollständige Aufzählung der enthaltenen Materialien 
 
 ## Landes- und Regionalbibliotheken 
 
-  * Literaturversorgung einer Region
-    + Bundesland
-    + Teil eines Bundeslandes
-    + Regierungsbezirk
-    + Stadt mit Umland
-  * möglichst vollständige Sammlung, Archivierung, Erschließung und Bereitstellung der Literatur aus und über das jeweilige Zuständigkeitsgebiet
-  * Pflichtexemplarrecht
-  * Wissenschaftliche Gebrrauchsbibliothek der Region
-  * in vielen Bundesländern mehrere Landesbibliotheken
-    + Arbeitsteilung nach Regierungsbezirken
+- Literaturversorgung einer Region
+  - Bundesland
+  - Teil eines Bundeslandes
+  - Regierungsbezirk
+  - Stadt mit Umland
+- möglichst vollständige Sammlung, Archivierung, Erschließung und Bereitstellung der Literatur aus und über das jeweilige Zuständigkeitsgebiet
+- Pflichtexemplarrecht
+- Wissenschaftliche Gebrrauchsbibliothek der Region
+- in vielen Bundesländern mehrere Landesbibliotheken
+  - Arbeitsteilung nach Regierungsbezirken
 
 
 
 ### Aufgaben 
 
-  * Landesbibliographie
-    + Erstellung
-    + laufende Veröffentlichung
-  * Erschließung und Pflege des Altbestandes
-  * Literatur und Nachlässe der Persönlichkeiten des Landes &#10132; Sammlung und Bearbeitung
-  * Literaturarchiv
-  * Kultur- und Öffentlichkeitsarbeit mit regionalem Bezug
+- Landesbibliographie
+  - Erstellung
+  - laufende Veröffentlichung
+- Erschließung und Pflege des Altbestandes
+- Literatur und Nachlässe der Persönlichkeiten des Landes &#10132; Sammlung und Bearbeitung
+- Literaturarchiv
+- Kultur- und Öffentlichkeitsarbeit mit regionalem Bezug
 
 
 
 ## Spezialbibliotheken 
 
-  * fachlich auf Trägereinrichtung zugeschnitten
-    + öffentliche Forschungseinrichtungen
-    + Diöszesen
-    + Verbände, Kammern, Stiftungen 
-    + Großunternehmen mit Forschungsauftrag 
-    + &#10132; aktueller und praktischer Bedarf der Mitarbeiter
-  * Sammelgebiet:
-    + v.a. Literatur außerhalb des Buchhandels
-    + Zeitschriften wichtiger als Monographien
-  * Intensive Dokumentationstätigkeit
-  * Meist Präsenzbibliotheken
-  * Oft One-Person-Library (OPL)
+- fachlich auf Trägereinrichtung zugeschnitten
+  - öffentliche Forschungseinrichtungen
+  - Diöszesen
+  - Verbände, Kammern, Stiftungen 
+  - Großunternehmen mit Forschungsauftrag 
+  - &#10132; aktueller und praktischer Bedarf der Mitarbeiter
+- Sammelgebiet:
+  - v.a. Literatur außerhalb des Buchhandels
+  - Zeitschriften wichtiger als Monographien
+- Intensive Dokumentationstätigkeit
+- Meist Präsenzbibliotheken
+- Oft One-Person-Library (OPL)
 
 
 
 ### Bibliotheken der Kunst- und Musikhochschulen 
 
-  * Sammelgebiet:
-    + Fächerprofil
-    + meist unter 100.000 Bände, oft unter 100 lfd. Zeitschriften
-    + hoher Anteil:
-      * Noten
-      * Tonträger
-      * Videos
-      * Fotos
-      * Dias
-      * Ausstellungskataloge
-  * oft nur für Hochschulangehörige zugängig
+- Sammelgebiet:
+  - Fächerprofil
+  - meist unter 100.000 Bände, oft unter 100 lfd. Zeitschriften
+  - hoher Anteil:
+    - Noten
+    - Tonträger
+    - Videos
+    - Fotos
+    - Dias
+    - Ausstellungskataloge
+- oft nur für Hochschulangehörige zugängig
 
 
 
 ### Fachhochschulbibliotheken 
 
-  * Sammelgebiet:
-    + Fächerprofil der FH
-    + Meist unter 1 Mio. Bände, unter 1.000 lfd. Zeitschriften
-    + oft viele
-      * Firmenschriften
-      * Patentinformationen
-      * Normen
-      * technische Regelwerke
-      * anwendungsbezogene Fachzeitschriften
-      * Lehrbücher
-  * keine Archivierung
-  * einschichtige Bibliothekssysteme
-  * Zielgruppe:
-    + FH-Angehörige
-    + hochqualifizierte Berufstätige (z.B. Ingenieure)
+- Sammelgebiet:
+  - Fächerprofil der FH
+  - Meist unter 1 Mio. Bände, unter 1.000 lfd. Zeitschriften
+  - oft viele
+    - Firmenschriften
+    - Patentinformationen
+    - Normen
+    - technische Regelwerke
+    - anwendungsbezogene Fachzeitschriften
+    - Lehrbücher
+- keine Archivierung
+- einschichtige Bibliothekssysteme
+- Zielgruppe:
+  - FH-Angehörige
+  - hochqualifizierte Berufstätige (z.B. Ingenieure)
 
 
 
 ### Forschungsbibliotheken 
 
-  * Geisteswissenschaftliche Bibliotheken mit eigenen Forschungstätigkeiten
-    + Betreuung von Editionen
-    + Vergabe von Stipendien
-    + Durchführung wissenschaftlicher Tagungen
-    + ...
-  * Bestandsgröße über 100.000 Bände, besonders historische Publikationen
-  * Institutionelle Unabhängigkeit
-  * Beispiele:
-    + Herzog August Bibliothek, Wolfenbüttel (Europäische Kulturgeschichte der Frühen Neuzeit)
-    + Herzogin Anna Amalia Bibliothek, Weimar (Deutsche Klassik)
-    + Hauptbibliothek der Franckeschen Stiftungen, Halle (Kirchen- und Bildungsgeschichte der Frühen Neuzeit)
+- Geisteswissenschaftliche Bibliotheken mit eigenen Forschungstätigkeiten
+  - Betreuung von Editionen
+  - Vergabe von Stipendien
+  - Durchführung wissenschaftlicher Tagungen
+  - ...
+- Bestandsgröße über 100.000 Bände, besonders historische Publikationen
+- Institutionelle Unabhängigkeit
+- Beispiele:
+  - Herzog August Bibliothek, Wolfenbüttel (Europäische Kulturgeschichte der Frühen Neuzeit)
+  - Herzogin Anna Amalia Bibliothek, Weimar (Deutsche Klassik)
+  - Hauptbibliothek der Franckeschen Stiftungen, Halle (Kirchen- und Bildungsgeschichte der Frühen Neuzeit)
 
 
 
 ### Parlaments-, Behörden- und Gerichtsbibliotheken 
 
-  * meist Präsenzbibliotheken, nur interne Nutzung
-  * Sammelgebiet:
-    + juristische und politische Literatur
-    + Amtsdruckschriften
-    + graue Literatur
-  * teilweise Digitalisierungsprojekte für Intranet
-  * fachlich auf Trägereinrichtung zugeschnitten
+- meist Präsenzbibliotheken, nur interne Nutzung
+- Sammelgebiet:
+  - juristische und politische Literatur
+  - Amtsdruckschriften
+  - graue Literatur
+- teilweise Digitalisierungsprojekte für Intranet
+- fachlich auf Trägereinrichtung zugeschnitten
 
 
 
@@ -335,59 +335,59 @@ Vereinfachte Darstellung, vollständige Aufzählung der enthaltenen Materialien 
 
 ### Staatsbibliothek zu Berlin - Preußischer Kulturbesitz (SBB-PK) 
 
-  * Gegründet 1661
-  * zentrale Aufgaben für das deutsche Bibliothekswesen
-  * Bestände:
-    + 11 Mio. Bände, 47.000 Zeitschriften (Print und elektronisch), + 100.000 Medien/Jahr
-    + Schwerpunkte:
-      * Nationale und internationale Amtsdruckschriften und Schriften internationaler Organisationen
-      * Nationale und internationale Zeitungen
-      * Kinder- und Jugendbücher
-    + Sonderbestände:
-      * Abendländische Handschriften
-      * Musikwissenschaftliche Sondersammlung
-      * Orientalische Sondersammlung
-    + Sondersammelgebiete:
-      * Rechtswissenschaften
-      * Ost- und Südostasien
-      * Slawistik
-      * Veröffentlichungen zur Kartographie
-      * Topographische Karten
-      * Parlamentsschriften
-      * Ausländische Zeitungen
-    + Bibliographische Dienstleistungen:
-      * Internationaler Gesamtkatalog der Wiegendrucke
-      * Zentralkartei der Autographen
-      * Sammlung Deutscher Drucke 1871-1912
-      * Zeitschriftendatenbank (ZDB)
-      * Gesamtverzeichnis der Kongressschriften (GKS)
-      * Gemeinsame Körperschaftsdatei (GKD; Kooperation mit BSB und DNB)
+- Gegründet 1661
+- zentrale Aufgaben für das deutsche Bibliothekswesen
+- Bestände:
+  - 11 Mio. Bände, 47.000 Zeitschriften (Print und elektronisch), + 100.000 Medien/Jahr
+  - Schwerpunkte:
+    - Nationale und internationale Amtsdruckschriften und Schriften internationaler Organisationen
+    - Nationale und internationale Zeitungen
+    - Kinder- und Jugendbücher
+  - Sonderbestände:
+    - Abendländische Handschriften
+    - Musikwissenschaftliche Sondersammlung
+    - Orientalische Sondersammlung
+  - Sondersammelgebiete:
+    - Rechtswissenschaften
+    - Ost- und Südostasien
+    - Slawistik
+    - Veröffentlichungen zur Kartographie
+    - Topographische Karten
+    - Parlamentsschriften
+    - Ausländische Zeitungen
+  - Bibliographische Dienstleistungen:
+    - Internationaler Gesamtkatalog der Wiegendrucke
+    - Zentralkartei der Autographen
+    - Sammlung Deutscher Drucke 1871-1912
+    - Zeitschriftendatenbank (ZDB)
+    - Gesamtverzeichnis der Kongressschriften (GKS)
+    - Gemeinsame Körperschaftsdatei (GKD; Kooperation mit BSB und DNB)
 
 
 
 ### Bayerische Staatsbibliothek (BSB) 
 
-  * Gegründet 1558
-  * Zentrale Landesbibliothek des Freistaates Bayern
-  * Staatliche Fachbehörde für alle Angelegenheiten des bayerischen Bibliothekswesens, Landesfachstelle für das öffentliche BIbliothekswesen
-  * Institut für Buch- und Handschriftenrestaurierung, Münchner Digitalisierungszentrum
-  * Bestände:
-    + 10 Mio. Bände, 60.000 Zeitschriften, + 130.000 Medien/Jahr
-    + Sonderbestände:
-      * Größte Inkunabelsammlung der Welt (ca. 20.000 Bände)
-      * Handschriften
-    + Sondersammelgebiete:
-      * Buch-, Bibliotheks- und Informationswesen
-      * Allgemeine Geschichte, Vor- und Frühgeschichte
-      * Klassische Altertumsgeschichte, Myzzanz
-      * Geschichte Deutschlands, Österreichs, Schweiz, Frankreichs, Italiens
-      * Ost-, Mittel- und Südeuropa
-      * Albanische und rumänische Sprach- und Literaturwissenschaften
-      * Neuzeitliches Griechenland
-      * Musikwissenschaft
-    + Bibliographische Dienstleistungen:
-      * Katalog der Musikdrucke
-      * Sammlung Deutscher Drucke 1450-1600
+- Gegründet 1558
+- Zentrale Landesbibliothek des Freistaates Bayern
+- Staatliche Fachbehörde für alle Angelegenheiten des bayerischen Bibliothekswesens, Landesfachstelle für das öffentliche BIbliothekswesen
+- Institut für Buch- und Handschriftenrestaurierung, Münchner Digitalisierungszentrum
+- Bestände:
+  - 10 Mio. Bände, 60.000 Zeitschriften, + 130.000 Medien/Jahr
+  - Sonderbestände:
+    - Größte Inkunabelsammlung der Welt (ca. 20.000 Bände)
+    - Handschriften
+  - Sondersammelgebiete:
+    - Buch-, Bibliotheks- und Informationswesen
+    - Allgemeine Geschichte, Vor- und Frühgeschichte
+    - Klassische Altertumsgeschichte, Myzzanz
+    - Geschichte Deutschlands, Österreichs, Schweiz, Frankreichs, Italiens
+    - Ost-, Mittel- und Südeuropa
+    - Albanische und rumänische Sprach- und Literaturwissenschaften
+    - Neuzeitliches Griechenland
+    - Musikwissenschaft
+  - Bibliographische Dienstleistungen:
+    - Katalog der Musikdrucke
+    - Sammlung Deutscher Drucke 1450-1600
 
 
 
@@ -395,13 +395,13 @@ Vereinfachte Darstellung, vollständige Aufzählung der enthaltenen Materialien 
 
 ### Aufgaben 
 
-  * Literaturversorgung, hauptsächlich der Hochschulangehörigen
-  * universaler Sammelauftrag
-  * Angebote:
-    + Datenbanken
-    + Elektronische Publikationen
-    + Lehrbuchsammlungen
-  * ggf. Teilnahme am SSG-Plan
+- Literaturversorgung, hauptsächlich der Hochschulangehörigen
+- universaler Sammelauftrag
+- Angebote:
+  - Datenbanken
+  - Elektronische Publikationen
+  - Lehrbuchsammlungen
+- ggf. Teilnahme am SSG-Plan
 
 
 
@@ -409,18 +409,18 @@ Vereinfachte Darstellung, vollständige Aufzählung der enthaltenen Materialien 
 
 Einschichtiges Bibliothekssystem:
 
-* neuere Universitäten (seit den späten 60er Jahren)
-* Vereinigung der Aufgaben der zentralen Universitätsbibliothek mit Aufgaben der dezentralen Institutsbibliotheken
-* Zentrale Zuweisung und Verteilung des Erwerbungsetats
+- neuere Universitäten (seit den späten 60er Jahren)
+- Vereinigung der Aufgaben der zentralen Universitätsbibliothek mit Aufgaben der dezentralen Institutsbibliotheken
+- Zentrale Zuweisung und Verteilung des Erwerbungsetats
 
 
 
 Zweischichtiges Bibliothekssystem
 
-* traditionelle Universitäten
-* Zweiteilig:
-  + Zentrale Universitätsbibliotheken
-  + Selbstständige Seminar-, Instituts- oder Fakultätsbibliotheken
+- traditionelle Universitäten
+- Zweiteilig:
+  - Zentrale Universitätsbibliotheken
+  - Selbstständige Seminar-, Instituts- oder Fakultätsbibliotheken
 
 
 
@@ -430,68 +430,68 @@ Zweischichtiges Bibliothekssystem
 
 ### Aufgaben 
 
-  * überregionale Literaturversorgung
-  * Sammeln von Publikationen des jeweiligen Fachgebiets mit größtmöglicher Vollständigkeit
-    + International
-    + Nichtkonventionelle Publikationen, z.B. technische Handbücher, elektronische Publikationen, Reports, Geschäftsberichte
-    + Non-Book-Medien aller Art
-  * Kostenpflichtiger Direktversand
-  * Kooperative Dokumentenlieferdienste 
+- überregionale Literaturversorgung
+- Sammeln von Publikationen des jeweiligen Fachgebiets mit größtmöglicher Vollständigkeit
+  - International
+  - Nichtkonventionelle Publikationen, z.B. technische Handbücher, elektronische Publikationen, Reports, Geschäftsberichte
+  - Non-Book-Medien aller Art
+- Kostenpflichtiger Direktversand
+- Kooperative Dokumentenlieferdienste 
 
 
 
 ### Deutsche Zentralbibliothek für Medizin, Köln (ZB-Med) 
 
-  * Gründung: 1969
-  * Sammelgebiete:
-    + Medizin, Gesundheit (Köln)
-    + Ernährungs-, Umwelt-, Agrarwissenschaft (Bonn)
-  * Bestände: 
-    + Bücher
-    + (elektronische) Zeitschriften
-    + Zeitschriftenartikel
-    + Current Contents
-  * Größte medizinische Bibliothek Europas
-  * über 2.000 elektronische Zeitschriften
-  * Enge Zusammenarbeit mit DIMDI (Deutsches Institut für medizinische Dokumentation und Information, Köln)
+- Gründung: 1969
+- Sammelgebiete:
+  - Medizin, Gesundheit (Köln)
+  - Ernährungs-, Umwelt-, Agrarwissenschaft (Bonn)
+- Bestände: 
+  - Bücher
+  - (elektronische) Zeitschriften
+  - Zeitschriftenartikel
+  - Current Contents
+- Größte medizinische Bibliothek Europas
+- über 2.000 elektronische Zeitschriften
+- Enge Zusammenarbeit mit DIMDI (Deutsches Institut für medizinische Dokumentation und Information, Köln)
 
 
 
 ### Technische Informationsbibliothek, Hannover (TIB) 
 
-  * Gründung: 1959
-  * Sammelgebiete:
-    + alle Gebiete der Technik und deren Grundlagenwissenschaften
-    + insbesondere:
-      * Chemie
-      * Informatik
-      * Mathematik
-      * Physik
-  * Bestände: 
-    + Mikroformen
-    + Konferenzberichte
-    + Forschungsberichte & Reports
-    + Patentschriften
-    + Normen
-    + Standards
-    + Dissertationen 
-    + CD-ROMs
+- Gründung: 1959
+- Sammelgebiete:
+  - alle Gebiete der Technik und deren Grundlagenwissenschaften
+  - insbesondere:
+    - Chemie
+    - Informatik
+    - Mathematik
+    - Physik
+- Bestände: 
+  - Mikroformen
+  - Konferenzberichte
+  - Forschungsberichte & Reports
+  - Patentschriften
+  - Normen
+  - Standards
+  - Dissertationen 
+  - CD-ROMs
 
 
 
 ### Deutsche Zentralbibliothek für Wirtschaftswissenschaften, Kiel (ZBW) 
 
-  * Gründung: 1914 (als Institutsbibliothek)
-  * Sammelgebiete:
-    + Volkswirtschaft
-    + Weltwirtschaft
-  * Bestände:
-    + Arbeitspapiere
-    + Berichte
-    + Statistiken
-    + Dissertationen
-    + Konferenzberichte
-  * Größte wirtschaftswissenschaftliche Bibliothek der Welt
+- Gründung: 1914 (als Institutsbibliothek)
+- Sammelgebiete:
+  - Volkswirtschaft
+  - Weltwirtschaft
+- Bestände:
+  - Arbeitspapiere
+  - Berichte
+  - Statistiken
+  - Dissertationen
+  - Konferenzberichte
+- Größte wirtschaftswissenschaftliche Bibliothek der Welt
 
 
 

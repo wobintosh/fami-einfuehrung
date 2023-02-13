@@ -14,16 +14,16 @@ Alle **natürlichen Personen** (= Menschen) sind rechtsfähig. Die Rechtsfähigk
 
 ## Geschäftsfähigkeit 
 
-  * Geschäftsunfähigkeit
-    * bis zum Ende des 7. Lebensjahrs, dauernd Geisteskranke, vom Gericht für geschäftsunfähig erklärte Personen
-    * Willenserklärungen sind **nichtig**
-  * Beschränkte Geschäftsfähigkeit
-    * 7. bis Ende 18. Lebensjahr, vom Gericht für geschäftsunfähig erklärte Personen, unter vorläufige Vormundschaft gestellte Personen
-    * Gesetzlicher Vertreter muss vor Vertragsabschluss (= Einwilligung) oder nach Vertragsabschluss (= Genehmigung) zustimmen
-    * Solange Verträge keine Zustimmung haben, sind sie **schwebend unwirksam**
-    * Ausnahmen:
-      * nur rechtliche Vorteile (z.B. Schenkung)
-      * Verwendung überlassener Mittel zur freien Verfügung (= Taschengeld) oder für bestimmte Zwecke
-      * Rechtsgeschäfte in einem genehmigten Arbeitsverhältnis oder selbstständigen Erwerbsgeschäft
-  * Unbeschränkte Geschäftsfähigkeit
-    * ab vollendetem 18. Lebensjahr 
+- Geschäftsunfähigkeit
+  - bis zum Ende des 7. Lebensjahrs, dauernd Geisteskranke, vom Gericht für geschäftsunfähig erklärte Personen
+  - Willenserklärungen sind **nichtig**
+- Beschränkte Geschäftsfähigkeit
+  - 7. bis Ende 18. Lebensjahr, vom Gericht für geschäftsunfähig erklärte Personen, unter vorläufige Vormundschaft gestellte Personen
+  - Gesetzlicher Vertreter muss vor Vertragsabschluss (= Einwilligung) oder nach Vertragsabschluss (= Genehmigung) zustimmen
+  - Solange Verträge keine Zustimmung haben, sind sie **schwebend unwirksam**
+  - Ausnahmen:
+    - nur rechtliche Vorteile (z.B. Schenkung)
+    - Verwendung überlassener Mittel zur freien Verfügung (= Taschengeld) oder für bestimmte Zwecke
+    - Rechtsgeschäfte in einem genehmigten Arbeitsverhältnis oder selbstständigen Erwerbsgeschäft
+- Unbeschränkte Geschäftsfähigkeit
+  - ab vollendetem 18. Lebensjahr 

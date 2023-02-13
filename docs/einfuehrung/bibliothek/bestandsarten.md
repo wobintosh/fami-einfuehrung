@@ -2,16 +2,16 @@
 
 Unterscheidung nach...
 
-  * Medientyp/-art (Träger)
-    + Printmedien
-    + Nonprintmedien
-  * Publikationsform (Erscheinungsweise)
-    + Monografien (Erscheint einmalig)
-    + Periodika (Zeitungen etc.)
-  * Inhalt/Literaturart
-    + Kinder- und Jugendliteratur
-    + Sachliteratur
-    + ...
+- Medientyp/-art (Träger)
+  - Printmedien
+  - Nonprintmedien
+- Publikationsform (Erscheinungsweise)
+  - Monografien (Erscheint einmalig)
+  - Periodika (Zeitungen etc.)
+- Inhalt/Literaturart
+  - Kinder- und Jugendliteratur
+  - Sachliteratur
+  - usw.
 
 
 Für audiovisuelle Medien (AV-Medien) sind Geräte zum Abspielen nötig. Wird ein Computer zur Wiedergabe benötigt, spricht man von elektronischen Medien. 
@@ -61,50 +61,50 @@ Wichtige Abkürzungen:
 
 Sachbuch im weiteren Sinne:
 
-  * kein fiktionaler Inhalt, keine Kinder(-sach-)bücher, keine Comics
-  * informierender, analysierender oder reflektierender Charakter steht im Vordergrund
-  * bspw. wissenschaftliche Werke, Foto- oder Kunstbildbände, praktische Anleitungen, Lehrbücher
-  * auch: Sach- und Fachliteratur
-  * engl.: non fiction
+- kein fiktionaler Inhalt, keine Kinder(-sach-)bücher, keine Comics
+- informierender, analysierender oder reflektierender Charakter steht im Vordergrund
+- bspw. wissenschaftliche Werke, Foto- oder Kunstbildbände, praktische Anleitungen, Lehrbücher
+- auch: Sach- und Fachliteratur
+- engl.: non fiction
 
 
 
 Sachbuch im engeren Sinne:
 
-  * vermittelt in zusammenhängender Darstellung Kenntnisse, Tatsachen, Werte, Sichtweisen und Meinungen an ein nicht fachspezifisches Publikum
-  * allgemein verständlich geschrieben
-  * dient der Wissenspopularisierung, Wert- und Sinnorientierung, Meinungsbildung
-  * steht dem Alltagsbewusstsein nahe
-  * zentrale Buchgattung für ÖBs, für WBs zu wenig Informationen
-  * Autoren teilweise Wissenschaftler, meist (Wissenschafts-)Journalisten
-  * Nutzung durch 49% der Bevölkerung
-  * Übergang zu Fachbuch, Ratgeber, wissenschaftlichem Buch ist fließend
-  * Titelformulierungen oft eingängig, Neugier weckend, Stellung beziehend
-  * Zusatz zum HST: Thema mit nüchternen Worten angegeben
-  * kaum Fußnoten, Quellenangaben, Register, Literaturverzeichnisse
-  * fesselnde Schreibweise
-  * Darstellung sachlich einwandfrei
+- vermittelt in zusammenhängender Darstellung Kenntnisse, Tatsachen, Werte, Sichtweisen und Meinungen an ein nicht fachspezifisches Publikum
+- allgemein verständlich geschrieben
+- dient der Wissenspopularisierung, Wert- und Sinnorientierung, Meinungsbildung
+- steht dem Alltagsbewusstsein nahe
+- zentrale Buchgattung für ÖBs, für WBs zu wenig Informationen
+- Autoren teilweise Wissenschaftler, meist (Wissenschafts-)Journalisten
+- Nutzung durch 49% der Bevölkerung
+- Übergang zu Fachbuch, Ratgeber, wissenschaftlichem Buch ist fließend
+- Titelformulierungen oft eingängig, Neugier weckend, Stellung beziehend
+- Zusatz zum HST: Thema mit nüchternen Worten angegeben
+- kaum Fußnoten, Quellenangaben, Register, Literaturverzeichnisse
+- fesselnde Schreibweise
+- Darstellung sachlich einwandfrei
 
 
 
 ### Buchgattungen der Sachliteratur 
 
-  * Populäres Sachbuch (= Sachbuch im engeren Sinne)
-  * Fachbuch
-  * wissenschaftliches Buch
-  * Handbuch
-  * Lexikon
-  * Sprachwörterbuch
-  * Lehr-, Lern- und Übungsmaterialien
-  * Schulbuch
-  * Ratgeber, Anleitung
-  * Biographie
-  * Reiseführer
-  * Atlas
-  * Bildband
-  * Quellenwerk, Normensammlung, Gesetzessammlung, Gesetzeskommentar
-  * Fakten-, Namen- Waren-, Bildverzeichnis
-  * Bibliografie, Bibliothekskatalog
+- Populäres Sachbuch (= Sachbuch im engeren Sinne)
+- Fachbuch
+- wissenschaftliches Buch
+- Handbuch
+- Lexikon
+- Sprachwörterbuch
+- Lehr-, Lern- und Übungsmaterialien
+- Schulbuch
+- Ratgeber, Anleitung
+- Biographie
+- Reiseführer
+- Atlas
+- Bildband
+- Quellenwerk, Normensammlung, Gesetzessammlung, Gesetzeskommentar
+- Fakten-, Namen- Waren-, Bildverzeichnis
+- Bibliografie, Bibliothekskatalog
 
 
 
@@ -112,85 +112,85 @@ Sachbuch im engeren Sinne:
 
 ### Dissertation 
 
-  * schriftliche wissenschaftliche Arbeit
-  * Voraussetzung zur Erlangung eines Doktorgrades
-  * meist neue wissenschaftliche Erkenntnisse zu meist sehr speziellen Thema
+- schriftliche wissenschaftliche Arbeit
+- Voraussetzung zur Erlangung eines Doktorgrades
+- meist neue wissenschaftliche Erkenntnisse zu meist sehr speziellen Thema
 
 
 
 ### Enzyklopädie 
 
-  * relativ ausführliche Artikel
-  * Literaturnachweise
-  * Allgemeines Wissen, fachspezifisches Wissen
+- relativ ausführliche Artikel
+- Literaturnachweise
+- Allgemeines Wissen, fachspezifisches Wissen
 
 
 
 ### Fakten- und Zahlensammlung 
 
-  * Nachschlagen statistischer Angaben und wichtiger Zahlen
-  * bspw. statistische Jahresberichte, Orts- und Namensverzeichnisse, Almanache
+- Nachschlagen statistischer Angaben und wichtiger Zahlen
+- bspw. statistische Jahresberichte, Orts- und Namensverzeichnisse, Almanache
 
 
 
 ### Forschungsbericht/Report 
 
-  * Ergebnisse, Stand oder Fortschritte
-  * nicht immer für die Öffentlichkeit zugänglich
+- Ergebnisse, Stand oder Fortschritte
+- nicht immer für die Öffentlichkeit zugänglich
 
 
 
 ### Habilitation 
 
-  * wissenschaftliche Arbeit
-  * Erwerb der Lehrberechtigung i.d.R. für eine Professur
+- wissenschaftliche Arbeit
+- Erwerb der Lehrberechtigung i.d.R. für eine Professur
 
 
 
 ### Handbuch 
 
-  * Wissen eins Fachgebiets systematisch geordnet
-  * Überblick über Inhalte und Entwicklung eines speziellen Themas oder Fachgebiets
-  * kann mehrbändig sein
-  * kann von mehreren Wissenschaftlern geschrieben sein
+- Wissen eins Fachgebiets systematisch geordnet
+- Überblick über Inhalte und Entwicklung eines speziellen Themas oder Fachgebiets
+- kann mehrbändig sein
+- kann von mehreren Wissenschaftlern geschrieben sein
 
 
 
 ### Konferenzbericht 
 
-  * verschriftliche Vorträge einer Tagung
+- verschriftliche Vorträge einer Tagung
 
 
 
 ### Lehrbuch 
 
-  * grundlegendes Wissen eines Fachs
-  * aktueller Forschungsstand
-  * einfache Darstellung
-  * didaktische Aufbereitung
+- grundlegendes Wissen eines Fachs
+- aktueller Forschungsstand
+- einfache Darstellung
+- didaktische Aufbereitung
 
 
 
 ### Lexikon
 
-  * kürzere Artikel zum Lemma
-  * keine Literaturnachweise
-  * meist alphabetische Ordnung
-  * Allgemeines Wissen oder fachspezifisches Wissen (Themenkreis)
+- kürzere Artikel zum Lemma
+- keine Literaturnachweise
+- meist alphabetische Ordnung
+- Allgemeines Wissen oder fachspezifisches Wissen (Themenkreis)
 
 
 
 ### Monographie
 
-  * einzelnes, begrenztes Thema
-  * in sich abgeschlossene, selbstständige Veröffentlichung
+- einzelnes, begrenztes Thema
+- in sich abgeschlossene, selbstständige Veröffentlichung
 
 
 
 ### Wörterbuch
 
-  * Vermittlung sprachlichen Wissens
-  * Rechtschreibung, Synonyme, Fremdwörter
+- Vermittlung sprachlichen Wissens
+- Rechtschreibung, Synonyme, Fremdwörter
 
 
 
@@ -217,26 +217,26 @@ Trivialliteratur meint auf der Straße befindliche, d.h. allgemein zugängliche,
 
 ### Synonyme 
 
-  * Gebrauchsliteratur
-  * Subliteratur
-  * ...
+- Gebrauchsliteratur
+- Subliteratur
+- ...
 
 
 
 ### Funktionen 
 
-  * Katharsis
-  * Freizeitgestaltung
-  * Entspannung
-  * Sprachbildung, Sprachentwicklung
-  * Wissensvermittlung
-  * (Kritische) Auseinandersetzung mit Themen
-  * Emotionsverstärkung
-  * Lust auf Abenteuer (z.B. auch "Leseabenteuer")
-  * Idylle, Flucht in Scheinwelten, Lesen als Genussmittel
-  * Pflege des kulturellen Erbes
-  * Leseförderung
-  * Anregung der Phantasie
+- Katharsis
+- Freizeitgestaltung
+- Entspannung
+- Sprachbildung, Sprachentwicklung
+- Wissensvermittlung
+- (Kritische) Auseinandersetzung mit Themen
+- Emotionsverstärkung
+- Lust auf Abenteuer (z.B. auch "Leseabenteuer")
+- Idylle, Flucht in Scheinwelten, Lesen als Genussmittel
+- Pflege des kulturellen Erbes
+- Leseförderung
+- Anregung der Phantasie
 
 
 
@@ -257,20 +257,20 @@ Trivialliteratur meint auf der Straße befindliche, d.h. allgemein zugängliche,
 
 ### Genres der Unterhaltungsliteratur (auch: Interessenskreise)
 
-  * Kriminalroman
-  * Abenteuerroman
-  * Utopische/Phantastische Romane
-  * Natur
-  * Heimat
-  * Engagierte feministische Literatur
-  * Grusel
-  * Horror
-  * Erotik
-  * Liebesromane
-  * Historische Romane
-  * Familienromane
-  * Heiteres
-  * ...
+- Kriminalroman
+- Abenteuerroman
+- Utopische/Phantastische Romane
+- Natur
+- Heimat
+- Engagierte feministische Literatur
+- Grusel
+- Horror
+- Erotik
+- Liebesromane
+- Historische Romane
+- Familienromane
+- Heiteres
+- ...
 
 
 

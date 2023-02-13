@@ -19,25 +19,25 @@ Ziel: Sammlung aller in Deutschland erschienener Drucke
 
 ### Ziele 
 
-  * Sicherung überregionaler wissenschaftlicher Literaturversorgung in der Bundesrepublik 
-  * Füllung der Bestandslücken des 2. Weltkriegs
-  * Schaffung einer Basis für eine geordnete Literaturversorgung in der Zukunft
+- Sicherung überregionaler wissenschaftlicher Literaturversorgung in der Bundesrepublik 
+- Füllung der Bestandslücken des 2. Weltkriegs
+- Schaffung einer Basis für eine geordnete Literaturversorgung in der Zukunft
 
 
 
 ### Auftrag der DFG 
 
-  * 37 Staats- und Hochschulbibliothelken sammeln mit finanzieller Unterstützung der DFG so vollständig wie möglich
-  * so erworbene Literatur wird dem Leihverkehr zur Verfügung gestellt
+- 37 Staats- und Hochschulbibliothelken sammeln mit finanzieller Unterstützung der DFG so vollständig wie möglich
+- so erworbene Literatur wird dem Leihverkehr zur Verfügung gestellt
 
 
 
 ### Sammelgebiete 
 
-  * ausländische Monographien
-  * ausländische Zeitschriften
-  * ausländische elektronische Publikationen
-  * ausländische Microformen 
+- ausländische Monographien
+- ausländische Zeitschriften
+- ausländische elektronische Publikationen
+- ausländische Microformen 
 
 
 

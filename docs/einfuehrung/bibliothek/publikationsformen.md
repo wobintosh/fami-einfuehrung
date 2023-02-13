@@ -5,25 +5,25 @@ Wenn man von Publikationen spricht, meint man die Tatsache, dass Druckwerke zu e
 ## Unterteilungen 
 Mögliche Unterteilungen sind:[^1]
 
-  * Einbändige oder mehrbändige Werke
-  * Einzelwerke oder Sammlungen
-  * Sammelwerke
-  * Verfasserwerke
-  * Anonyme Werke
-  * Monographien 
-  * Fortsetzungswerke
-  * Fortlaufende Sammelwerke
+- Einbändige oder mehrbändige Werke
+- Einzelwerke oder Sammlungen
+- Sammelwerke
+- Verfasserwerke
+- Anonyme Werke
+- Monographien 
+- Fortsetzungswerke
+- Fortlaufende Sammelwerke
 
 
 
 Weitere mögliche Unterteilungen können sein:[^2]
 
-  * Monographien
-  * Mehrbändige Werke (Fortsetzungswerke)
-  * Schriftenreihen (Serien)
-  * Zeitschriften
-  * Zeitungen
-  * Datenbanken
+- Monographien
+- Mehrbändige Werke (Fortsetzungswerke)
+- Schriftenreihen (Serien)
+- Zeitschriften
+- Zeitungen
+- Datenbanken
 
 Kritikpunkte hier können sein, dass Sammlungen bzw. Sammelwerke, nicht betrachtet werden; Fortsetzungswerke nicht unbedingt mehrbändigen Werken entsprechen müssen und sich Periodika wie Zeitschriften und Zeitungen gut zusammenfassen ließen.
 

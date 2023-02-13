@@ -13,5 +13,5 @@ Die Berechnung erfolgt anhand des Alters am 01.01. des jeweiligen Kalenderjahres
 
 
 
-[^1]:Montag - Samstag = 6-Tage-Woche
+[^1]: Montag - Samstag = 6-Tage-Woche
 [^2]: Montag - Freitag = 5-Tage-Woche

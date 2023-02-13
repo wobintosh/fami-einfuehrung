@@ -4,10 +4,10 @@
 
 Beim Quantitativen Vergleich wird der Preis verglichen:
 
-  * Preisnachlässe
-    * Rabatte
-    * Skonti
-  * Bezugskosten &#10132; Berechenbar durch messbare Größen
+- Preisnachlässe
+  - Rabatte
+  - Skonti
+- Bezugskosten &#10132; Berechenbar durch messbare Größen
 
 
 
@@ -15,14 +15,18 @@ Beim Quantitativen Vergleich wird der Preis verglichen:
 
 Beim Qualitativen Vergleich wird die Ware verglichen:
 
-  * Spezifikationen
-  * Mindestmenge
-  * Lieferbedingungen
-  * Zahlungsbedingungen
-  * Service &#10132;  Bewertung aufgrund persönlicher Gewichtung
+- Spezifikationen
+- Mindestmenge
+- Lieferbedingungen
+- Zahlungsbedingungen
+- Service &#10132;  Bewertung aufgrund persönlicher Gewichtung
 
 
 
 # Rechenschema 
 
-Listenpreis - Rabatt = **Zieleinkaufspreis** - Skonto = **Bareinkaufspreis** + Bezugskosten = **Bezugspreis**
+Listenpreis - Rabatt = **Zieleinkaufspreis**
+
+Zieleinkaufspreis - Skonto = **Bareinkaufspreis** 
+
+Barienkaufspreis + Bezugskosten = **Bezugspreis**

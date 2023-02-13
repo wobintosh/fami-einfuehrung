@@ -19,18 +19,18 @@ Grundlage: Kunsturheberrechtsgesetz (KUG)
 
 Ausnahmen:
 
-  * Veröffentlichungen zum Zweck der Rechtspflege, §24
-  * Personen der Zeitgeschichte (z.B. Politiker), §23 (1)
-  * Öffentliche Veranstaltungen (z.B. Demonstrationen), §23 (1)
-  * Personen im Hintergrund eines Bildes, § 23 (1)
+- Veröffentlichungen zum Zweck der Rechtspflege, §24
+- Personen der Zeitgeschichte (z.B. Politiker), §23 (1)
+- Öffentliche Veranstaltungen (z.B. Demonstrationen), §23 (1)
+- Personen im Hintergrund eines Bildes, § 23 (1)
 
 
 
 ## Geeignete Bilder für Publikationen 
 
-  * Eigene Aufnahmen
-  * "Lizenzfreie" Bilder (Gemeinfrei, Public Domain, Creative Commons außer -NC)
-  * Fotosammlungen von Archiven oder Bildagenturen
+- Eigene Aufnahmen
+- "Lizenzfreie" Bilder (Gemeinfrei, Public Domain, Creative Commons außer -NC)
+- Fotosammlungen von Archiven oder Bildagenturen
 
 
 

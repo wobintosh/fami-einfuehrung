@@ -4,8 +4,8 @@
 
 ## Freistellung für Berufsschule (+ Weg) 
 
-  * minderjährige: 5x45 Minuten Unterricht = 8 Zeitstunden
-  * volljährige: 45 Minuten je Unterrichtsstunde
+- minderjährige: 5x45 Minuten Unterricht = 8 Zeitstunden
+- volljährige: 45 Minuten je Unterrichtsstunde
 
 (§51 Satz 1 BBiG)
 
@@ -13,11 +13,11 @@
 
 ## Tägliche Arbeitszeit 
 
-  * minderjährige: max. 40 Stunden/Woche; max. 8,5 Stunden/Tag; 12 Stunden Ruhezeit
-  * volljährige: 
-    * 5-Tage-Woche: max. 48 Stunden/Woche (jeweils 8 Stunden/Tag)
-    * 6-Tage-Woche: max. 60 Stunden/Woche (jeweils 10 Stunden/Tag)
-    * 11 Stunden Ruhezeit
+- minderjährige: max. 40 Stunden/Woche; max. 8,5 Stunden/Tag; 12 Stunden Ruhezeit
+- volljährige: 
+  - 5-Tage-Woche: max. 48 Stunden/Woche (jeweils 8 Stunden/Tag)
+  - 6-Tage-Woche: max. 60 Stunden/Woche (jeweils 10 Stunden/Tag)
+  - 11 Stunden Ruhezeit
 
 
 

@@ -46,19 +46,19 @@ Hier: Schlagworte
 
 ## Information 
 
-  * Jede Information hat ein Trägermedium
-  * Jede Information ist mit ihrem Trägermedium speicherbar und von Ort zu Ort übertragbar
-  * gleiche Information kann sich auf verschiedenen Trägern befinden (gleicher oder unterschiedlicher Trägertyp) => lässt sich vervielfältigen, wird durch Vervielfältigung __redundant__
-  * Information ist veränderbar => neue Information durch Verknüpfung
-  * kann durch Vernichten/Löschen des Datenträgers vernichtet werden[^1]
+- Jede Information hat ein Trägermedium
+- Jede Information ist mit ihrem Trägermedium speicherbar und von Ort zu Ort übertragbar
+- gleiche Information kann sich auf verschiedenen Trägern befinden (gleicher oder unterschiedlicher Trägertyp) => lässt sich vervielfältigen, wird durch Vervielfältigung __redundant__
+- Information ist veränderbar => neue Information durch Verknüpfung
+- kann durch Vernichten/Löschen des Datenträgers vernichtet werden[^1]
 
 
 
 ### Dokumentationsansätze
 
-  * Information als **verstandene Nachricht** (meaning approach &#8594; tägliches Leben)
-  * Information als **Wissensvermehrung** (effect approach &#8594; Bildungswesen)
-  * Information als **Bestätigung der Vorkenntnisse** (&#8594; Bildungswesen)
+- Information als **verstandene Nachricht** (meaning approach &#8594; tägliches Leben)
+- Information als **Wissensvermehrung** (effect approach &#8594; Bildungswesen)
+- Information als **Bestätigung der Vorkenntnisse** (&#8594; Bildungswesen)
 
 
 

@@ -37,4 +37,4 @@ Quelle: Konrad Umlauf, Vorlesungsmanuskript Grundkurs Medien, 2010[^1]
 
 
 
-[^1]: Konrad Umlauf, Vorlesungsskript/Gliederung Grundkurs Medien, 2010, http://www.ib.hu-berlin.de/~kumlau/handreichungen/h184/h184_2010.pdf, zuletzt abgerufen am 27.09.2015 
+[^1]: Konrad Umlauf, Vorlesungsskript/Gliederung Grundkurs Medien, 2010, [http://www.ib.hu-berlin.de/~kumlau/handreichungen/h184/h184_2010.pdf](http://www.ib.hu-berlin.de/~kumlau/handreichungen/h184/h184_2010.pdf), zuletzt abgerufen am 27.09.2015
