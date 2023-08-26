@@ -17,6 +17,7 @@
 ## Gemeinfreiheit, CC0
 
 - Übersichten, welche Arten Werk in welchen europäischen Ländern wann gemeinfrei werden: [Public domain calculators](https://lawflow.org/public-domain-calculators/)
+- [Was die CC0-Freigabe bedeutet und welche Möglichkeiten sie eröffnet](https://irights.info/artikel/was-die-cc0-freigabe-bedeutet-und-welche-moeglichkeiten-sie-eroeffnet/31156) (Maya El-Auwad, iRights.info, 19.10.2021)
 - Zu den Unterschieden zwischen Gemeinfrei, Public Domain und freien Lizenzen: [Gemeinfreiheit: Wie frei ist frei? (Valie Djordjevic, iRights.info, 15.08.2019](https://irights.info/artikel/gemeinfreiheit-wie-frei-ist-frei/29619)
 
 
